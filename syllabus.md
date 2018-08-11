@@ -6,7 +6,6 @@ page_class: content-wide
 
 This syllabus is still under development and is subject to change.
 
-
 <table class="syllabus">
   <colgroup>
     <col width="65px">
@@ -20,6 +19,9 @@ This syllabus is still under development and is subject to change.
       <th> Lecture </th>
       <th> Date </th>
       <th> Topic </th>
+      <th> Lab </th>
+      <th> Discussion </th>
+      <th> Homework </th>
     </tr>
   </thead>
   <tbody>
@@ -29,6 +31,7 @@ This syllabus is still under development and is subject to change.
    -->
 
   {% include syllabus_entries.html %}
+
 
   </tbody>
 </table>

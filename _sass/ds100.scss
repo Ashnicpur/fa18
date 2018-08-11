@@ -290,27 +290,31 @@ ul {
 
 }
 
-    .syllabus__header {
-      border-bottom: 5px solid $data-blue;
-    }
+  .syllabus__header {
+    border-bottom: 5px solid $data-blue;
+  }
 
-.lecture:nth-child(odd) {
-  border-top: 5px solid $data-blue;
-  background-color: #eee;
-}
+  .lecture:nth-child(even) {
+    border-top: 5px solid $data-blue;
+    background-color: #eee;
+  }
 
-    .lecture__week,
-    .lecture__date {
-      text-align: center;
-    }
+  .lecture__week,
+  .lecture__date {
+    text-align: center;
+  }
 
-    .lecture__textbook {
-      font-size: 1.1rem;
-    }
+  .lecture__textbook {
+    font-size: 1.0rem;
+  }
 
-    .lecture__assignment {
-      font-size: 1.2rem;
-    }
+  .lecture__assignment {
+    font-size: 1.0rem;
+  }
+
+  .lecture__description {
+    font-size: 1.0rem;
+  }
 
 .lecture--current .lecture__num {
   background-color: #ffa500;

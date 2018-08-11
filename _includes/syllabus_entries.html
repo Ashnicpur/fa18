@@ -1,41 +1,57 @@
 {% assign lecture_counter = 1 %}
 
 {% for lecture in site.data.lectures %}
+
+  <!-- Use this block if starting lecture date is week begin -->
+  {% comment %}
   {% assign is_week_begin = lecture_counter | plus: 1 | modulo: 2 %}
   {% assign week = lecture_counter | divided_by: 2.0 | ceil %}
-
-  {% comment %}
-  {% assign is_week_begin = lecture_counter | modulo: 2 %}
-  {% assign week = lecture_counter | plus: 1 | divided_by: 2.0 | ceil %}
+  {% assign is_off_week = false %}
   {% endcomment %}
 
+  <!-- Use this block if starting lecture data is not week begin -->
+  {% assign is_week_begin = lecture_counter | modulo: 2 %}
+  {% assign week = lecture_counter | plus: 1 | divided_by: 2.0 | ceil %}
+  {% assign is_off_week = true %}
 
   <tr class="lecture"
       data-lecture-week="{{ week }}"
       data-lecture-date="{{ lecture.date }}">
 
+    <!-- Week Column  -->
     {% if is_week_begin == 0 %}
       <td class="lecture__week" id="lecture-week-{{week}}" rowspan="2">
         {{ week }}
       </td>
+    {% elsif lecture_counter == 1 and is_off_week %}
+      <td class="lecture__week" id="lecture-week-{{week}}">
+        {{ week }}
+      </td>
     {% endif %}
 
-
+    <!-- Lecture Column -->
     <th class="lecture__num">
       {{ lecture_counter }}
     </th>
+
+    <!-- Data Column -->
     <td class="lecture__date">
       {{ lecture.date }}
     </td>
+
+    <!-- Topic Column -->
     <td class="lecture__info">
       <h3>
         {{ lecture.topic }}
-        {% if lecture.lecturer %} [{{ lecture.lecturer }}] {% endif %}
+        <!-- {% if lecture.lecturer %} [{{ lecture.lecturer }}] {% endif %} -->
       </h3>
 
-      {{ lecture.description | markdownify }}
+      <!-- <p class="lecture__description">
+          {{ lecture.description }}
+      </p> -->
+      
 
-      {% if lecture.textbook %}
+      <!-- {% if lecture.textbook %}
       <p class="lecture__textbook"><strong>
         Textbook:
         {% for entry in lecture.textbook %}
@@ -64,8 +80,38 @@
         <h4 class="lecture__assignment">
           {{ lecture.assignment | markdownify }}
         </h4>
-      {% endif %}
+      {% endif %} -->
     </td>
+
+    <!-- Lab Column -->
+    {% if lecture.lab %}
+      <td class="lab__info">
+          {{ lecture.lab }}
+      </td>
+    {% else %}
+      <td class="lab__info"> </td>
+    {% endif %}
+
+    <!-- Discussion Column -->
+    {% if lecture.lab %}
+      <td class="disc__info">
+          {{ lecture.discussion }}
+      </td>
+    {% else %}
+      <td class="disc__info"> </td>
+    {% endif %}
+
+    <!-- Homework Column -->
+    {% if lecture.lab %}
+      <td class="hw__info">
+          {{ lecture.homework }}
+      </td>
+    {% else %}
+      <td class="hw__info"> </td>
+    {% endif %}
+
+
+
   </tr>
   {% assign lecture_counter = lecture_counter | plus: 1 %}
 {% endfor %}
