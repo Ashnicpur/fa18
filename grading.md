@@ -3,36 +3,25 @@ layout: page
 title: "Grading"
 ---
 
+There will be 2 challenging projects and 7 homework assignments. Assignments must be completed individually and will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public.
 
-Updated grading policy coming soon!
-
-There will be 2 challenging projects and 6 homework assignments.  
-We will drop the lowest scoring homework assignment.  
-Assignments must be completed individually and will mix programming and short answer questions. 
-At the end of each week of instruction, we will have an online multiple choice quiz (vitamin) that will help you stay up-to-date with lecture materials. 
-Labs assignments will be graded for completion and are intended to help with the projects.
-
-* 20% Homeworks (6 assignments, 4% each and we drop the lowest)
-* 10% Projects (2 projects, 5% each)
-* 5% Vitamins
+* 20% Homeworks (7 assignments, 2.86% each)
+* 15% Projects (2 projects, 5% and 10% respectively)
 * 10% Labs
-* 5% Participation
+* 5% Vitamins
 * 20% Midterm
-* 30% Final
+* 30% Final 
 
-(The midterm will be in class on March 8th. The final exam will be May 10th at 8am.)
+(The midterm will tentatively be in class on October 16th. The final exam will be December 13th 11:30am - 2:30pm)
 
-Participation is based on answering questions in lecture using an online form.  
-You will need a device with a web-browser to complete these online questions.
-Full credit is given for answering question (correct answer is not required) in 18 lectures, and is pro-rated for fewer than 18 lectures, i.e., min(number of lectures with recorded click, 18)/18.
-
-An additional 1 to 2 points of extra credit will be given to students who actively participate in class and help answer questions on Piazza. 
+An additional 1% of extra credit may be given to students who actively participate in class and help answer questions on Piazza. 
 
 ### On Time Policy (try not to be late)
 
 Each student gets an extension budget of 5 slip days. You can use the extension
 on homework and project assignments during the semester. Do not plan to use
-your slip-time; it is there for unforeseen circumstances!
+your slip-time; it is there for unforeseen circumstances! These are rounded up, so if you are 
+1 minute late then 1 slip day will be used.
 
 After you have used up your slip-time budget, any assignment handed in late
 will be marked off 20% per day late, rounded up to the nearest integer number
@@ -42,7 +31,7 @@ of days. No assignment will be accepted more then 5 days late.
 
 Data science is a collaborative activity. 
 While you may talk with others about the homework, we ask that you write your solutions individually. 
-If you do discuss the assignments with others please include their names at the top of your solution. 
+If you do discuss the assignments with others please include their names at the top of your notebook. 
 Keep in mind that content from the homework and vitamins will likely be covered on both the midterm and final. 
 We will be following the [EECS
 departmental policy on Academic
@@ -53,5 +42,3 @@ be sure you are familiar with it.
 
 If you are feeling overwhelmed, visit our office hours and talk with us.
 We know college can be stressful and we want to help you succeed!
-
-
