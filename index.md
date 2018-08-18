@@ -20,14 +20,14 @@ methods including regression, classification and clustering; principles behind
 creating informative data visualizations; statistical concepts of measurement
 error and prediction; and techniques for scalable data processing.
 
-This class is listed as [STAT C100](http://classes.berkeley.edu/content/2017-fall-stat-c100-001-lec-001) and as [COMPSCI C100](http://classes.berkeley.edu/content/2017-fall-compsci-c100-001-lec-001).
+This class is listed as [STAT C100](http://classes.berkeley.edu/content/2018-fall-stat-c100-001-lec-001) and as [COMPSCI C100](http://classes.berkeley.edu/content/2018-fall-compsci-c100-001-lec-001).
 
 ## Important Information:
 
 * **When:** Lectures Tuesdays and Thursdays from 6:30PM to 8:00PM
 * **Where:** [150 Wheeler ](http://www.berkeley.edu/map?wheeler)
 * **What:** See the [lecture schedule](syllabus)
-* **News:** We will post updates about the class on [Piazza](https://piazza.com/berkeley/fall2018/data100/home)
+* **News:** We will post updates about the class on [Piazza](https://piazza.com/class/jkopvsyuy7g3u0?cid=18)
 
 
 ## Goals
@@ -54,30 +54,8 @@ While we are working to make this class widely accessible we currently require t
 
 ## Instructors
 
-<section class="staff">
+{% include instructor_entries.html %}
 
-  <div class="staff__item">
-    <img class="staff__img"
-         src="https://statistics.berkeley.edu/sites/default/files/faculty/fperez_headshot_lg.jpg"
-         alt="Fernando Perez" />
-    <address>
-      <strong>Fernando Perez</strong><br>
-      <a href="mailto:Fernando.Perez@berkeley.edu">Fernando.Perez@berkeley.edu</a>
-    </address>
-  </div>
+## TAs
 
-  <div class="staff__item">
-    <img class="staff__img"
-         src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/joshhug.jpg"
-         alt="Josh Hug" />
-    <address>
-      <strong>Josh Hug</strong><br>
-      <a href="mailto:josh@joshh.ug">josh@joshh.ug</a>
-    </address>
-  </div>
-
-</section>
-
-
-
-
+{% include staff_entries.html %}
