@@ -6,6 +6,59 @@ page_class: content-wide
 
 This syllabus is still under development and is subject to change.
 
+<script>
+  function get_buttom() {
+    return document.getElementsByClassName('show_hide_description_click')[0];
+  }
+
+  function showCurrentWeekDescription() {
+    const lectures = document.getElementsByClassName('lecture');
+
+  for (var i = 0; i < lectures.length; i++ ) {
+      let lecture = lectures[i];
+      const { lectureWeek, lectureDate } = lecture.dataset;
+      const lec_date = new Date(lectureDate + ' 23:59:59');
+
+      if (current_date <= lec_date) {
+        const descEls = document.getElementsByClassName(`description-week-${lectureWeek}`);
+        for (var j = 0; j < descEls.length; j++) {
+          descEl = descEls[j];
+          descEl.hidden = null;
+        }
+        break;
+      }
+    }
+  }
+
+  function hideAllDescription() {
+    const descEls = document.getElementsByClassName('lecture__description');
+    for (var j = 0; j < descEls.length; j++) {
+      descEl = descEls[j];
+      descEl.hidden = "true";
+    }
+    showCurrentWeekDescription();
+
+    const buttom = get_buttom();
+    buttom.text = "Show all lecture descriptions";
+    buttom.onclick=showAllDescription;
+  }
+
+  function showAllDescription() {
+    const descEls = document.getElementsByClassName('lecture__description');
+    for (var j = 0; j < descEls.length; j++) {
+      descEl = descEls[j];
+      descEl.hidden = null;
+    }
+
+    const buttom = get_buttom();
+    buttom.text = "Hide all lecture descriptions";
+    buttom.onclick=hideAllDescription;
+  }
+
+</script>
+<a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a>
+
+
 <table class="syllabus">
   <colgroup>
     <col width="65px">
@@ -56,10 +109,18 @@ for (var i = 0; i < lectures.length; i++ ) {
     // Need to look up the week element since it might be in the row above
     const weekEl = document.getElementById(`lecture-week-${lectureWeek}`);
     weekEl.className += ' lecture__week--current';
-    window.location.hash = `lecture-week-${lectureWeek}`;
+
+    // We will show the description for lectures in the coming week
+    const descEls = document.getElementsByClassName(`description-week-${lectureWeek}`);
+    for (var j = 0; j < descEls.length; j++) {
+      descEl = descEls[j];
+      descEl.hidden = null;
+    }
+
     break;
   }
-  
+
+  window.location.hash = `lecture-week-${lectureWeek}`;
 }
 </script>
 

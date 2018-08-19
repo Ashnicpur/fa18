@@ -29,36 +29,48 @@
   lab: ''
   project: ''
   topic: Course Overview, Data Design and Sources of Bias
+  description: In this lecture we provide an overview of what data science is at its root and the components that make data science a large field with endless possibilities. Fundamentally, (data) science is the study of using data to learn about the world and solve problems. However, how and what data is collected can have a profound impact on what we can learn and the problems we can solve. Along the way, we will also touch on what it means to be a data scientist by examining recent surveys of data scientists. We will begin to explore various mechanisms for data collection and their implications on our ability to generalize. In particular, we will discuss differences between censuses, surveys, controlled experiments, and observational studies and will also highlight the power of simple randomization and the fallacies of data at scale. Welcome to Data 100!
+
 - date: 8/28/18
   discussion: Disc1
   homework: ''
   lab: 'Lab1 '
   project: ''
   topic: Data Manipulation with Pandas I
+  description: While data comes in many forms, most data analyses are performed on tabular data. Mastering the skills of constructing, cleaning, joining, aggregating, and manipulating tabular data is essential to data science. In this lecture we will introduce Pandas, the open-source Python data manipulation and analysis library widely used by data scientists. Through introducing useful Pandas operations and paradigms, we will also bring to light new concepts including indices, column operations (and their effect on system performance), grouping operations, and basic data visualization tools built to accompany Pandas.
+
 - date: 8/30/18
   discussion: ''
   homework: HW0 Due
   lab: ''
   project: ''
   topic: Data Manipulation with Pandas II
+  description: Continued discussion of material in the previous lecture.
+
 - date: 9/4/18
   discussion: Disc2
   homework: HW1 Released
   lab: 'Lab2 '
   project: ''
   topic: Data Cleaning & EDA
+  description: Whether collected by you or obtained from someone else, raw data is seldom ready for immediate analysis. Data cleaning is an important skill every data scientist should master and it starts with understanding key aspects of the data. Through exploratory data analysis we can often discover important anomalies, identify limitations in the collection process, and better inform subsequent goal-oriented analysis. In this lecture we will discuss how to identify and correct common data anomalies and analyze their implications on future analysis. We will also discuss key properties of data including structure, granularity, faithfulness, temporality, and scope; these properties can inform how we prepare, analyze, and visualize data.
+
 - date: 9/6/18
   discussion: ''
   homework: ''
   lab: ''
   project: ''
   topic: EDA and Visualization
+  description: In this lecture we will continue our discussion of EDA and important features we should be identifying when given a dataset. Along the way, we will start to work through a real-world exercise in EDA using public crime data for the city of Berkeley. Through this, we will also introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
+
 - date: 9/11/18
   discussion: Disc3
   homework: HW1 Due, HW2 Released
   lab: 'Lab3 '
   project: ''
   topic: Visualization and Data Transformations
+  description: A large fraction of the human brain is devoted to visual perception. As a consequence, visualization is a critical tool in both exploratory data analysis and the communication of complex relationships in data. However, making informative and clear visualizations of complex concepts can be challenging. In this lecture we explore good and bad visualizations and describe how to choose visualizations for various kinds of data and goals. We will also go into detail on how to identify issues with certain visualizations and ways to fix these issues to properly convey the message you are trying to show. However, in some cases, directly visualizing data can be uninformative. Some examples of these cases include plots with curvilinear relationships, large numbers of similar observations hiding core trends in the data, and visualizing data with a large number of variables. In this lecture we discuss data transformations, smoothing, and dimensionality reduction to address the challenges in creating informative visualizations. The Tukey-Mosteller Bulge Diagram will come in handy when talking about transformations and is a great tool for identifying when data needs to be transformed. With these additional analytics we can often reveal important and informative patterns in data.
+
 - date: 9/13/18
   discussion: ''
   homework: ''

@@ -46,9 +46,10 @@
         <!-- {% if lecture.lecturer %} [{{ lecture.lecturer }}] {% endif %} -->
       </h3>
 
-      <!-- <p class="lecture__description">
+      <!-- the class second field for description is used to un-hidden the field -->
+      <p class="lecture__description description-week-{{week}}" hidden="true">
           {{ lecture.description }}
-      </p> -->
+      </p>
       
 
       <!-- {% if lecture.textbook %}
