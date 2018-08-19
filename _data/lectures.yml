@@ -106,19 +106,19 @@
   homework: HW3 Released
   lab: 'Lab6 '
   project: Proj1 Due
-  topic: Probability, Exp, Var, and Sample Mean
+  topic: Bias Variance Tradeoff and Regularization
 - date: 10/4/18
   discussion: ''
   homework: ''
   lab: ''
   project: ''
-  topic: Bias Variance Tradeoff and Regularization
+  topic: Cross-validation and regularization
 - date: 10/9/18
   discussion: DIsc7
   homework: ''
   lab: 'Lab7 '
   project: ''
-  topic: Cross-validation and regularization
+  topic: Ethics
 - date: 10/11/18
   discussion: Midterm Review
   homework: HW3 Due
@@ -148,49 +148,49 @@
   homework: ''
   lab: ''
   project: ''
-  topic: Ethics
+  topic: Probability theory, Monte Carlo, Bootstrapping
 - date: 10/30/18
   discussion: Disc10
   homework: ''
   lab: 'Lab10 '
   project: ''
-  topic: Probability theory, Monte Carlo, Bootstrapping
+  topic: Hypothesis Testing I
 - date: 11/1/18
   discussion: ''
   homework: HW4 Due, HW5 Released
   lab: ''
   project: ''
-  topic: Hypothesis Testing I
+  topic: Hypothesis Testing II
 - date: 11/6/18
   discussion: Disc11
   homework: ''
   lab: 'Lab 11 '
   project: ''
-  topic: Hypothesis Testing II
+  topic: SQL
 - date: 11/8/18
   discussion: ''
   homework: ''
   lab: ''
   project: ''
-  topic: SQL
+  topic: Advanced SQL
 - date: 11/13/18
   discussion: Disc12
   homework: HW5 Due
   lab: 'Lab 12 '
   project: Proj2 Released
-  topic: Advanced SQL
+  topic: Big Data
 - date: 11/15/18
   discussion: ''
   homework: ''
   lab: ''
   project: ''
-  topic: Big Data
+  topic: Distributed Computing
 - date: 11/20/18
   discussion: Break
   homework: ''
   lab: 'Lab 13 '
   project: ''
-  topic: Distributed Computing
+  topic: Web Technologies, REST
 - date: 11/22/18
   discussion: Break
   homework: ''
@@ -202,7 +202,7 @@
   homework: HW6 Released
   lab: ''
   project: Proj2 Due
-  topic: Web Technologies, REST
+  topic: Guest Lecture
 - date: 11/29/18
   discussion: ''
   homework: ''

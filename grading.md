@@ -25,7 +25,7 @@ your slip-time; it is there for unforeseen circumstances! These are rounded up, 
 
 After you have used up your slip-time budget, any assignment handed in late
 will be marked off 20% per day late, rounded up to the nearest integer number
-of days. No assignment will be accepted more then 5 days late.
+of days. No assignment will be accepted more than 5 days late.
 
 ### Collaboration Policy (don't cheat)
 
