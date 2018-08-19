@@ -59,35 +59,37 @@ This syllabus is still under development and is subject to change.
 <a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a>
 
 
-<table class="syllabus">
-  <colgroup>
-    <col width="65px">
-    <col width="78px">
-    <col width="115px">
-    <col width="">
-  </colgroup>
-  <thead>
-    <tr class="syllabus__header">
-      <th> Week </th>
-      <th> Lecture </th>
-      <th> Date </th>
-      <th> Topic </th>
-      <th> Lab </th>
-      <th> Discussion </th>
-      <th> Homework </th>
-    </tr>
-  </thead>
-  <tbody>
+<div class="table-responsive">
+  <table class="syllabus table" id="syllabus_table">
+    <colgroup>
+      <col width="65px">
+      <col width="78px">
+      <col width="115px">
+      <col width="">
+    </colgroup>
+    <thead>
+      <tr class="syllabus__header">
+        <th> Week </th>
+        <th> Lecture </th>
+        <th> Date </th>
+        <th> Topic </th>
+        <th> Lab </th>
+        <th> Discussion </th>
+        <th> Homework </th>
+      </tr>
+    </thead>
+    <tbody>
 
-  <!--
-  The actual lecture rows. To add a lecture, edit _data/lectures.yml.
-   -->
+    <!--
+    The actual lecture rows. To add a lecture, edit _data/lectures.yml.
+    -->
 
-  {% include syllabus_entries.html %}
+    {% include syllabus_entries.html %}
 
 
-  </tbody>
-</table>
+    </tbody>
+  </table>
+</div>
 
 <!--
 Script to highlight the current lecture.
