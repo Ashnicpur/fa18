@@ -8,9 +8,9 @@ There will be 2 challenging projects and 7 homework assignments. Assignments mus
 * 20% Homeworks (7 assignments, 2.86% each)
 * 15% Projects (2 projects, 5% and 10% respectively)
 * 10% Labs
-* 5% Vitamins
+* 5% Attendance (or 0% if opting out)
 * 20% Midterm
-* 30% Final 
+* 30% Final (or 35% if opting out)
 
 (The midterm will tentatively be in class on October 16th. The final exam will be December 13th 11:30am - 2:30pm)
 
