@@ -43,15 +43,22 @@
     <td class="lecture__info">
       <h3>
         {{ lecture.topic }}
+        {% if lecture.slides %}
+          [<a href="{{ lecture.slides }}">slides</a>]
+        {% endif %}
         <!-- {% if lecture.lecturer %} [{{ lecture.lecturer }}] {% endif %} -->
       </h3>
 
-      <!-- the class second field for description is used to un-hidden the field -->
+      <!-- the second class field for description is used to un-hidden the field -->
       <p class="lecture__description description-week-{{week}}" hidden="true">
           {{ lecture.description }}
       </p>
       
-
+      {% if lecture.resources %}
+      <p class="lecture__resources">
+        {{ lecture.resources | markdownify }}
+      </p>
+      {% endif %}
       <!-- {% if lecture.textbook %}
       <p class="lecture__textbook"><strong>
         Textbook:
@@ -87,25 +94,25 @@
     <!-- Lab Column -->
     {% if lecture.lab %}
       <td class="lab__info">
-          {{ lecture.lab }}
+          {{ lecture.lab | markdownify }}
       </td>
     {% else %}
       <td class="lab__info"> </td>
     {% endif %}
 
     <!-- Discussion Column -->
-    {% if lecture.lab %}
+    {% if lecture.discussion %}
       <td class="disc__info">
-          {{ lecture.discussion }}
+          {{ lecture.discussion | markdownify }}
       </td>
     {% else %}
       <td class="disc__info"> </td>
     {% endif %}
 
     <!-- Homework Column -->
-    {% if lecture.lab %}
+    {% if lecture.homework %}
       <td class="hw__info">
-          {{ lecture.homework }}
+          {{ lecture.homework | markdownify }}
       </td>
     {% else %}
       <td class="hw__info"> </td>
