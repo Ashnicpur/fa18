@@ -3,11 +3,11 @@ layout: page
 title: "Resources"
 ---
 
-We will be posting all lecture materials on the course syllabus.  In addition, they will also be listed in the following publicly visible [Google drive folder](https://drive.google.com/drive/folders/0Bze55lezLJhIM3BBRW0wc0lXQWs).
+We will be posting all lecture materials on the course syllabus.  In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/fa18).
 
 Here is a collection of resources that will help you learn more about various concepts and skills covered in the class.  Learning by reading is a key part of being a well rounded data scientist.  We will not assign mandatory reading but instead encourage you to look at these _and other_ materials.  If you find something helpful, post it on Piazza, and consider contributing it to the course website.
 
-You can send us changes to the course website by [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull request](https://help.github.com/articles/about-pull-requests/) to the [course website github repository](https://github.com/DS-100/sp18).  You will then become part of the history of the DS100 class at Berkeley.
+You can send us changes to the course website by [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull request](https://help.github.com/articles/about-pull-requests/) to the [course website github repository](https://github.com/DS-100/fa18).  You will then become part of the history of the DS100 class at Berkeley.
 
 ## Web References
 
@@ -42,9 +42,11 @@ As a data scientist you will often need to search for information on various lib
 
 ## Books
 
-Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for the course.
+Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for this subject.
 Instead we plan to use reading from a collection of books all of which are free.
 However, we have listed a few optional books that will provide additional context for those who are interested.
+
+* **[Principles and Techniques of Data Science](https://www.textbook.ds100.org/)** This is the accompanying textbook written for DS100 course.
 
 * **[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)** (Free online PDF) This book is a great reference for the machine learning and some of the statistics material in the class
 
@@ -54,13 +56,5 @@ However, we have listed a few optional books that will provide additional contex
 ([Available as eBook for Berkeley students](http://proquest.safaribooksonline.com/9781449363871)) This books provides a unique case-study view of data science but uses R and not Python.
 
 * **[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)** ([Available as eBook for Berkeley students](http://proquest.safaribooksonline.com/9781449323592)).  This book provides a good reference for the Pandas library.
-
-
-
-## Relevant Classes At Berkeley:
-
-* **[Stat89a: Linear Algebra for Data Science](https://www.stat.berkeley.edu/~mmahoney/s18-lads/)**.  An introduction to linear algebra for data science. The course will cover introductory topics in linear algebra, starting with the basics; discrete probability and how probability can be used to understand high-dimensional vector spaces; matrices and graphs as popular mathematical structures with which to model data (e.g., as models for term-document corpora, high-dimensional regression problems, ranking/classification of web data, adjacency properties of social network data, etc.); and geometric approaches to eigendecompositions, least-squares, principal components analysis, etc.
-
-
 
 
