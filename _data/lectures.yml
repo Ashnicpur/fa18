@@ -41,7 +41,7 @@
     differences between censuses, surveys, controlled experiments, and observational
     studies and will also highlight the power of simple randomization and the fallacies
     of data at scale. Welcome to Data 100!
-  # slides: fill_in_url_here
+  slides: https://docs.google.com/presentation/d/1Y7sdF-q27CjbGO58gpYcYS9Fgz3PSkZJcXDyOuJqiTQ/edit?usp=sharing
   resources: |
     - [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
   discussion: 'Disc0'
