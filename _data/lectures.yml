@@ -47,7 +47,7 @@
     - [Textbook: Data Science Life Cycle](http://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
     - [Textbook: Data Design](http://www.textbook.ds100.org/ch/02/design_intro.html)
   discussion: 'Disc0'
-  homework: HW0 Release
+  homework: HW0 Released, due 9/3 11:59PM
 
 - date: 8/28/18
   topic: Data Manipulation with Pandas I
@@ -67,7 +67,6 @@
 - date: 8/30/18
   topic: Data Manipulation with Pandas II
   description: Continued discussion of material in the previous lecture.
-  homework: HW0 Due
   resources: |
     - See Above
 
