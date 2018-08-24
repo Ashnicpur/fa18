@@ -43,7 +43,9 @@
     of data at scale. Welcome to Data 100!
   slides: https://docs.google.com/presentation/d/1Y7sdF-q27CjbGO58gpYcYS9Fgz3PSkZJcXDyOuJqiTQ/edit?usp=sharing
   resources: |
-    - [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
+    - [Demo Notebook](assets/lectures/lec1.zip)
+    - [Textbook: Data Science Life Cycle](http://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
+    - [Textbook: Data Design](http://www.textbook.ds100.org/ch/02/design_intro.html)
   discussion: 'Disc0'
   homework: HW0 Release
 
