@@ -5,12 +5,12 @@ title: "Grading"
 
 There will be 2 challenging projects and 7 homework assignments. Assignments must be completed individually and will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public.
 
-27% homeworks and labs (18% homework, 9% labs)
-3% Vitamins
-15% Projects
-5% Attendance (or 0% if opting out)
-20% Midterm
-30% Final (or 35% if opting out of attendance)
+- 27% homeworks and labs (18% homework, 9% labs)
+- 3% Vitamins
+- 15% Projects
+- 5% Attendance (or 0% if opting out)
+- 20% Midterm
+- 30% Final (or 35% if opting out of attendance)
 
 (The midterm will tentatively be in class on October 16th. The final exam will be December 13th 11:30am - 2:30pm)
 
