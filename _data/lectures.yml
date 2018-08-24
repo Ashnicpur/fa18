@@ -61,11 +61,15 @@
     basic data visualization tools built to accompany Pandas.
   lab: 'Lab1'
   discussion: Disc1
+  resources: |
+    - [Textbook: Tabular Data](http://www.textbook.ds100.org/ch/03/pandas_intro.html)
 
 - date: 8/30/18
   topic: Data Manipulation with Pandas II
   description: Continued discussion of material in the previous lecture.
   homework: HW0 Due
+  resources: |
+    - See Above
 
 - date: 9/4/18
   topic: Data Cleaning & EDA
