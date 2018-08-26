@@ -47,7 +47,9 @@
     - [Textbook: Data Science Life Cycle](http://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
     - [Textbook: Data Design](http://www.textbook.ds100.org/ch/02/design_intro.html)
     - [Screencast](https://www.youtube.com/watch?v=NplaZECopOs)
-  discussion: 'Disc0'
+  discussion: |
+    - Disc0
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc00/disc00.ipynb)
   homework: HW0 Released, due 9/3 11:59PM
 
 - date: 8/28/18
