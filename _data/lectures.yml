@@ -62,7 +62,7 @@
     paradigms, we will also bring to light new concepts including indices, column
     operations (and their effect on system performance), grouping operations, and
     basic data visualization tools built to accompany Pandas.
-  lab: 'Lab1'
+  lab: Lab1 Released, due 8/27 11:59PM
   discussion: Disc1
   resources: |
     - [Textbook: Tabular Data](http://www.textbook.ds100.org/ch/03/pandas_intro.html)
