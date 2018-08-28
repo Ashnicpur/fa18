@@ -43,7 +43,7 @@
     of data at scale. Welcome to Data 100!
   slides: https://docs.google.com/presentation/d/1Y7sdF-q27CjbGO58gpYcYS9Fgz3PSkZJcXDyOuJqiTQ/edit?usp=sharing
   resources: |
-    - [Demo Notebook](assets/lectures/lec1.zip)
+    - [Demo Notebook](assets/lectures/lec1.zip) (also on Datahub)
     - [Textbook: Data Science Life Cycle](http://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
     - [Textbook: Data Design](http://www.textbook.ds100.org/ch/02/design_intro.html)
     - [Screencast](https://www.youtube.com/watch?v=NplaZECopOs)
