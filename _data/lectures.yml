@@ -63,7 +63,8 @@
     operations (and their effect on system performance), grouping operations, and
     basic data visualization tools built to accompany Pandas.
   lab: Lab1 Released, due 8/27 11:59PM
-  discussion: Disc1
+  discussion: |
+    - [Disc1](assets/discussions/disc01.pdf)
   slides: https://docs.google.com/presentation/d/1qMRtloXaccvJLfyZckn-UpuG0Prb1XtJHLPWQX2OMSo/edit?usp=sharing
   resources: |
     - [Textbook: Tabular Data](http://www.textbook.ds100.org/ch/03/pandas_intro.html)
@@ -89,8 +90,7 @@
     and scope; these properties can inform how we prepare, analyze, and visualize
     data.
   lab: 'Lab2 '
-  discussion: |
-    - [Disc1](assets/discussions/disc01.pdf)
+  discussion: Disc2
   homework: HW1 Released
 
 - date: 9/6/18
