@@ -88,7 +88,8 @@
     and scope; these properties can inform how we prepare, analyze, and visualize
     data.
   lab: 'Lab2 '
-  discussion: Disc2
+  discussion: |
+    - [Disc1](assets/discussions/disc01.pdf)
   homework: HW1 Released
 
 - date: 9/6/18
