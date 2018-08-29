@@ -68,6 +68,7 @@
   resources: |
     - [Textbook: Tabular Data](http://www.textbook.ds100.org/ch/03/pandas_intro.html)
     - [Demo Notebook](assets/lectures/lec02.zip) (also on Datahub)
+    - [Screencast](https://www.youtube.com/watch?v=mYEP5QmEHYY)
 
 - date: 8/30/18
   topic: Data Manipulation with Pandas II
