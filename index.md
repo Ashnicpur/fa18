@@ -29,9 +29,11 @@ This class is listed as [STAT C100](http://classes.berkeley.edu/content/2018-fal
 * **What:** See the [lecture schedule](syllabus)
 * **News:** We will post updates about the class on [Piazza](https://piazza.com/class/jkopvsyuy7g3u0?cid=18)
 
-## Lab, Section, and Office Hours Schedule
+## Lab, Section, and Office Hours Schedules
 
-<iframe src="https://calendar.google.com/calendar/b/2/embed?title=DS100%20FA18%20-%20Sections%20and%20Office%20Hours&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=berkeley.edu_1gr278m1hld2a90rfe2eidvftk%40group.calendar.google.com&amp;color=%235229A3&amp;src=berkeley.edu_v2o994ho2pfoepnkh81iihi5d4%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/2/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_v2o994ho2pfoepnkh81iihi5d4%40group.calendar.google.com&amp;color=%235B123B&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/b/2/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_1gr278m1hld2a90rfe2eidvftk%40group.calendar.google.com&amp;color=%238C500B&amp;src=berkeley.edu_mkou8k7ujmn5at167rhelf7ui0%40group.calendar.google.com&amp;color=%230D7813&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 For official holidays see the [academic calendar](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2018-19_V2.pdf).
 
