@@ -76,8 +76,13 @@
 - date: 8/30/18
   topic: Data Manipulation with Pandas II
   description: Continued discussion of material in the previous lecture.
+  slides: https://docs.google.com/presentation/d/1FrYg6yd6B-CIgfWLWm4W8vBhfmJ6Qt9dKkN-mlN5AKU/edit?usp=sharing
   resources: |
-    - See Above
+    - [Demo Notebook (ZIP)](assets/lectures/lec03/lec03.zip), also on [Datahub](https://data100.datahub.berkeley.edu/hub/home)
+      1. [Case Study (HTML)](assets/lectures/lec03/03-case-study.html)
+      2. [Enrollment Exercise (HTML)](assets/lectures/lec03/03-enrollment-exercise.html)
+      3. [Groupby & Pivot (HTML)](assets/lectures/lec03/03-groupby-and-pivot-basics.html)
+      4. [Pivot Basics (HTML)](assets/lectures/lec03/03-pivot-basics.html)
 
 - date: 9/4/18
   topic: Data Cleaning & EDA
