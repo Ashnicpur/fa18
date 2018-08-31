@@ -65,6 +65,7 @@
   lab: Lab1 Released, due 8/27 11:59PM
   discussion: |
     - [Disc1](assets/discussions/disc01.pdf)
+    - [Solution](https://github.com/DS-100/fa18/blob/master/disc/disc01/disc01_solution.pdf)
   slides: https://docs.google.com/presentation/d/1qMRtloXaccvJLfyZckn-UpuG0Prb1XtJHLPWQX2OMSo/edit?usp=sharing
   resources: |
     - [Textbook: Tabular Data](http://www.textbook.ds100.org/ch/03/pandas_intro.html)
