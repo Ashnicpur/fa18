@@ -133,17 +133,15 @@
     we can often reveal important and informative patterns in data.
   lab: 'Lab3 '
   discussion: Disc3
-  homework: HW1 Due, HW2 Released
 
 - date: 9/13/18
   topic: Working with Text
+  homework: HW1 Due, HW2 Released
 
 - date: 9/18/18
   topic: Modeling and Estimation
   lab: 'Lab4 '
   discussion: Disc4
-  homework: HW2 Due
-  project: Proj1 Released
 
 - date: 9/20/18
   topic: Gradient Descent for Model Estimation
@@ -152,6 +150,8 @@
   topic: Generalization and Empirical Risk Minimization
   lab: 'Lab5 '
   discussion: Disc5
+  homework: HW2 Due
+  project: Proj1 Released
 
 - date: 9/27/18
   topic: Linear Regression and Feature Engineering
@@ -160,8 +160,6 @@
   topic: Bias Variance Tradeoff and Regularization
   lab: 'Lab6 '
   discussion: Disc6
-  homework: HW3 Released
-  project: Proj1 Due
 
 - date: 10/4/18
   topic: Cross-validation and regularization
@@ -169,12 +167,13 @@
 - date: 10/9/18
   topic: Ethics
   lab: 'Lab7 '
-  discussion: DIsc7
+  discussion: Disc7
+  homework: HW3 Released
+  project: Proj1 Due
 
 - date: 10/11/18
   topic: Midterm Review
   discussion: Midterm Review
-  homework: HW3 Due
 
 - date: 10/16/18
   topic: Midterm
@@ -187,8 +186,8 @@
 - date: 10/23/18
   topic: Classification and Logistic Regression II
   lab: 'Lab9 '
-  discussion: DIsc9
-  homework: HW4 Released
+  discussion: Disc9
+  homework: HW3 Due, HW4 Released
 
 - date: 10/25/18
   topic: Probability theory, Monte Carlo, Bootstrapping
