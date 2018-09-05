@@ -44,8 +44,8 @@
   slides: https://docs.google.com/presentation/d/1Y7sdF-q27CjbGO58gpYcYS9Fgz3PSkZJcXDyOuJqiTQ/edit?usp=sharing
   resources: |
     - [Demo Notebook](assets/lectures/lec1.zip) (also on Datahub)
-    - [Textbook: Data Science Life Cycle](http://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
-    - [Textbook: Data Design](http://www.textbook.ds100.org/ch/02/design_intro.html)
+    - [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
+    - [Textbook: Data Design](https://www.textbook.ds100.org/ch/02/design_intro.html)
     - [Screencast](https://www.youtube.com/watch?v=NplaZECopOs)
   discussion: |
     - Disc0
@@ -68,7 +68,7 @@
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc01/disc01_solution.pdf)
   slides: https://docs.google.com/presentation/d/1qMRtloXaccvJLfyZckn-UpuG0Prb1XtJHLPWQX2OMSo/edit?usp=sharing
   resources: |
-    - [Textbook: Tabular Data](http://www.textbook.ds100.org/ch/03/pandas_intro.html)
+    - [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
     - [Demo Notebook](assets/lectures/lec02.zip) (also on Datahub)
       1. [Pandas Basics (HTML)](assets/lectures/lec02/02-pandas-basics.nbconvert.html)
       2. [Case Study (HTML)](assets/lectures/lec02/02-case-study.nbconvert.html)
@@ -102,6 +102,7 @@
   discussion: Disc2
   homework: HW1 Released, due 9/13 11:59 PM
   resources: |
+    - [Textbook: Data Cleaning](https://www.textbook.ds100.org/ch/04/cleaning_intro.html)
     - [Demo Notebook (ZIP)](assets/lectures/lec04/lec04.zip)
       1. [Groupby Pivot and Merge (HTML)](assets/lectures/lec04/groupby_pivot_and_merge.html)
 
@@ -112,6 +113,8 @@
     start to work through a real-world exercise in EDA using public crime data for
     the city of Berkeley. Through this, we will also introduce tools for data visualization
     using Pandas, Seaborn, and Matplotlib.
+  resources: |
+    - [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
 
 - date: 9/11/18
   topic: Visualization and Data Transformations
