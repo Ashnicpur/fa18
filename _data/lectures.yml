@@ -101,6 +101,9 @@
   lab: 'Lab2 '
   discussion: Disc2
   homework: HW1 Released
+  resource: |
+    - [Demo Notebook (ZIP)](assets/lectures/lec04/lec04.zip)
+      1. [Groupby Pivot and Merge (HTML)](assets/lectures/lec04/groupby_pivot_and_merge.html)
 
 - date: 9/6/18
   topic: EDA and Visualization
