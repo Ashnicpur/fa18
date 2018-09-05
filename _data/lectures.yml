@@ -4,7 +4,7 @@
 #
 # The schema for a lecture entry is:
 #
-# 
+#
 # - date: Date of the lecture
 #   topic: Title of the lecture
 #   description: Longer description of lecture content
@@ -97,6 +97,7 @@
     key properties of data including structure, granularity, faithfulness, temporality,
     and scope; these properties can inform how we prepare, analyze, and visualize
     data.
+  slides: assets/lectures/lec04/04-EDA-and-Cleaning.pdf
   lab: 'Lab2 '
   discussion: Disc2
   homework: HW1 Released
