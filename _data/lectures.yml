@@ -101,7 +101,7 @@
   lab: 'Lab2 '
   discussion: Disc2
   homework: HW1 Released
-  resource: |
+  resources: |
     - [Demo Notebook (ZIP)](assets/lectures/lec04/lec04.zip)
       1. [Groupby Pivot and Merge (HTML)](assets/lectures/lec04/groupby_pivot_and_merge.html)
 
