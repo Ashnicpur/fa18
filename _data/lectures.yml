@@ -116,7 +116,12 @@
     using Pandas, Seaborn, and Matplotlib.
   resources: |
     - [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
-
+    - name: 05-EDA-Continued (PPTX)
+      url: assets/lectures/lec05/05-EDA-Continued.pptx
+    - name: EDA_and_Cleaning notebook (HTML Version)
+      url: assets/lectures/lec05/EDA_and_Cleaning.html
+    - name: code and data (includes notebooks and scripts as needed)
+      url: assets/lectures/lec05/code.zip
 - date: 9/11/18
   topic: Visualization and Data Transformations
   description: A large fraction of the human brain is devoted to visual perception.
