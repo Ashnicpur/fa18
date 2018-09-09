@@ -62,7 +62,9 @@
     paradigms, we will also bring to light new concepts including indices, column
     operations (and their effect on system performance), grouping operations, and
     basic data visualization tools built to accompany Pandas.
-  lab: Lab1 Released, due 8/27 11:59PM
+  lab: |
+    - Lab1
+    - [Solutions] (https://github.com/DS-100/fa18/blob/master/labs/lab01/lab01_solution.ipynb)
   discussion: |
     - [Disc1](assets/discussions/disc01.pdf)
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc01/disc01_solution.pdf)
@@ -98,7 +100,9 @@
     and scope; these properties can inform how we prepare, analyze, and visualize
     data.
   slides: assets/lectures/lec04/04-EDA-and-Cleaning.pdf
-  lab: 'Lab2 '
+  lab: |
+    - Lab2
+    - [Solutions] (https://github.com/DS-100/fa18/blob/master/labs/lab02/lab02_solution.ipynb)
   discussion: Disc2
   homework: HW1 Released, due 9/13 11:59 PM
   resources: |
