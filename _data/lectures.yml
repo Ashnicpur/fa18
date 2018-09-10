@@ -143,10 +143,21 @@
     we can often reveal important and informative patterns in data.
   lab: 'Lab3 '
   discussion: Disc3
+  resources: |
+    - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
 
 - date: 9/13/18
   topic: Working with Text
+  description: Whether in documents, tweets, or records in a table, text data is
+  ubiquitous and presents a unique set of challenges for data scientists. How
+  do you extract key phrases from text? What are meaningful aggregate summaries
+  of text? How do you visualize textual data? In this lecture we will introduce
+  a set of techniques (e.g. bag-of-words) to transform text into numerical data
+  for subsequent tabular analysis. We will also introduce regular expressions
+  as a mechanism for cleaning and transforming text data.
   homework: HW1 Due, HW2 Released
+  resources: |
+    - [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
 
 - date: 9/18/18
   topic: Modeling and Estimation
