@@ -141,12 +141,11 @@
     Diagram will come in handy when talking about transformations and is a great tool
     for identifying when data needs to be transformed. With these additional analytics
     we can often reveal important and informative patterns in data.
+  slides: assets/lectures/lec06/06-visualization.pptx
   lab: 'Lab3 '
   discussion: Disc3
   resources: |
     - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
-    - name: 06-visualization (PPTX)
-      url: assets/lectures/lec06/06-visualization.pptx
 
 - date: 9/13/18
   topic: Working with Text
