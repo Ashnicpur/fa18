@@ -143,7 +143,8 @@
     we can often reveal important and informative patterns in data.
   slides: assets/lectures/lec06/06-visualization.pptx
   lab: 'Lab3 '
-  discussion: Disc3
+  discussion: |
+    - [Disc3](https://github.com/DS-100/fa18/blob/master/disc/disc03/disc03.pdf)
   resources: |
     - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
 
