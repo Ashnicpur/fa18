@@ -158,6 +158,7 @@
     a set of techniques (e.g. bag-of-words) to transform text into numerical data
     for subsequent tabular analysis. We will also introduce regular expressions
     as a mechanism for cleaning and transforming text data.
+  slides: https://docs.google.com/presentation/d/1ECr_XrDJXaLK-eGwWlydLjJu-3xwpzFcV4fGMSfwKwU/edit?usp=sharing
   homework: HW1 Due, HW2 Released
   resources: |
     - [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
