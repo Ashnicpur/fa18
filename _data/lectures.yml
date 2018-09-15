@@ -161,17 +161,33 @@
     for subsequent tabular analysis. We will also introduce regular expressions
     as a mechanism for cleaning and transforming text data.
   slides: https://docs.google.com/presentation/d/1ECr_XrDJXaLK-eGwWlydLjJu-3xwpzFcV4fGMSfwKwU/edit?usp=sharing
-  homework: HW1 Due, HW2 Released
+  homework: HW1 Due, HW2 Released, due 9/25 11:59 PM
   resources: |
     - [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
 
 - date: 9/18/18
   topic: Modeling and Estimation
+  description: How do we pick a number to represent a dataset? A key step in
+    data science is developing models that capture the essential signal in
+    data while providing insight into the phenomena that govern the data and
+    enable effective prediction. In this lecture we address the fundamental
+    question of choosing a number and more generally a model that reflects
+    the data. We will introduce the concept of loss functions and begin to
+    develop basic models.
   lab: 'Lab4 '
   discussion: Disc4
+  resources: |
+    - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
 - date: 9/20/18
   topic: Gradient Descent for Model Estimation
+  description: In this lecture we will continue our development of models
+    within the framework of loss minimization. In particular, we will explore
+    how calculus can be used to analytically and numerically minimize loss
+    functions. We will introduce the widely used gradient descent algorithm
+    in the context of recommendation systems.
+  resources: |
+    - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
 
 - date: 9/25/18
   topic: Generalization and Empirical Risk Minimization
