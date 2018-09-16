@@ -193,8 +193,7 @@
   topic: Generalization and Empirical Risk Minimization
   lab: 'Lab5 '
   discussion: Disc5
-  homework: HW2 Due
-  project: Proj1 Released
+  homework: HW2 Due, HW3 Released
 
 - date: 9/27/18
   topic: Linear Regression and Feature Engineering
@@ -211,8 +210,8 @@
   topic: Ethics
   lab: 'Lab7 '
   discussion: Disc7
-  homework: HW3 Released
-  project: Proj1 Due
+  homework: HW3 Due
+  project: Proj1 Released
 
 - date: 10/11/18
   topic: Midterm Review
@@ -230,7 +229,8 @@
   topic: Classification and Logistic Regression II
   lab: 'Lab9 '
   discussion: Disc9
-  homework: HW3 Due, HW4 Released
+  homework: HW4 Released
+  project: Proj1 Due
 
 - date: 10/25/18
   topic: Probability theory, Monte Carlo, Bootstrapping
