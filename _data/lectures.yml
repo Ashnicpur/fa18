@@ -123,6 +123,8 @@
     - [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
     - [EDA_and_Cleaning notebook (HTML)](assets/lectures/lec05/EDA_and_Cleaning.html)
     - [code and data (includes notebooks and scripts as needed)](assets/lectures/lec05/code.zip)
+    - [Screencast](https://www.youtube.com/watch?v=cSkfvBKi-rw)
+
 - date: 9/11/18
   topic: Visualization and Data Transformations
   description: A large fraction of the human brain is devoted to visual perception.
@@ -150,6 +152,7 @@
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc03/dis03_solution.pdf)
   resources: |
     - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
+    - [Screencast](https://www.youtube.com/watch?v=AwFsWvNVts8)
 
 - date: 9/13/18
   topic: Working with Text
@@ -164,6 +167,7 @@
   homework: HW1 Due, HW2 Released, due 9/25 11:59 PM
   resources: |
     - [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
+    - [Screencast](https://www.youtube.com/watch?v=7jJlJU7bFe8)
 
 - date: 9/18/18
   topic: Modeling and Estimation
