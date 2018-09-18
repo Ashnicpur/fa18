@@ -178,7 +178,9 @@
     question of choosing a number and more generally a model that reflects
     the data. We will introduce the concept of loss functions and begin to
     develop basic models.
-  lab: 'Lab4 '
+  lab: |
+    - Lab4
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab04/lab04_solution).ipynb
   discussion: Disc4
   resources: |
     - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
