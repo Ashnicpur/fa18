@@ -168,6 +168,7 @@
   resources: |
     - [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
     - [Screencast](https://www.youtube.com/watch?v=7jJlJU7bFe8)
+    - [code and data (includes notebooks and scripts as needed)](assets/lectures/lec07/code.zip)
 
 - date: 9/18/18
   topic: Modeling and Estimation
@@ -178,7 +179,7 @@
     question of choosing a number and more generally a model that reflects
     the data. We will introduce the concept of loss functions and begin to
     develop basic models.
-  slides: assets/lectures/lec07/07-modeling-and-estimation.pptx   
+  slides: assets/lectures/lec08/08-modeling-and-estimation.pptx   
   lab: |
     - Lab4
     - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab04/lab04_solution.ipynb)
