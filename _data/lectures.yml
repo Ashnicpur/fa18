@@ -178,21 +178,17 @@
     question of choosing a number and more generally a model that reflects
     the data. We will introduce the concept of loss functions and begin to
     develop basic models.
+  slides: assets/lectures/lec07/07-modeling-and-estimation.pptx   
   lab: |
     - Lab4
     - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab04/lab04_solution.ipynb)
   discussion: Disc4
   resources: |
     - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
-    - name: 07-modeling-and-estimation (PPTX)
-      url: assets/lectures/lec07/07-modeling-and-estimation.pptx
-    - name: Estimation notebook (HTML Version)
-      url: assets/lectures/lec07/Estimation.html
-    - name: convex-functions notebook (HTML Version)
-      url: assets/lectures/lec07/convex-functions.html
-    - name: code and data (includes notebooks and scripts as needed)
-      url: assets/lectures/lec07/code.zip
-
+    - [Estimation notebook (HTML Version)](assets/lectures/lec07/Estimation.html)
+    - [convex-functions notebook (HTML Version)](assets/lectures/lec07/convex-functions.html)
+    - [code and data (includes notebooks and scripts as needed)](assets/lectures/lec07/code.zip)
+    
 - date: 9/20/18
   topic: Gradient Descent for Model Estimation
   description: In this lecture we will continue our development of models
