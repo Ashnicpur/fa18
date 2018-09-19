@@ -185,9 +185,9 @@
   discussion: Disc4
   resources: |
     - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
-    - [Estimation notebook (HTML Version)](assets/lectures/lec07/Estimation.html)
-    - [convex-functions notebook (HTML Version)](assets/lectures/lec07/convex-functions.html)
-    - [code and data (includes notebooks and scripts as needed)](assets/lectures/lec07/code.zip)
+    - [Estimation notebook (HTML Version)](assets/lectures/lec08/Estimation.html)
+    - [convex-functions notebook (HTML Version)](assets/lectures/lec08/convex-functions.html)
+    - [code and data (includes notebooks and scripts as needed)](assets/lectures/lec08/code.zip)
     
 - date: 9/20/18
   topic: Gradient Descent for Model Estimation
