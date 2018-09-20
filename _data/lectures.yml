@@ -178,7 +178,8 @@
     enable effective prediction. In this lecture we address the fundamental
     question of choosing a number and more generally a model that reflects
     the data. We will introduce the concept of loss functions and begin to
-    develop basic models.
+    develop basic models. we will explore how calculus can be used to 
+    analytically and minimize loss functions.
   slides: assets/lectures/lec08/08-modeling-and-estimation.pptx   
   lab: |
     - Lab4
@@ -192,12 +193,13 @@
     - [code and data (includes notebooks and scripts as needed)](assets/lectures/lec08/code.zip)
     
 - date: 9/20/18
-  topic: Gradient Descent for Model Estimation
+  topic: Modeling and Estimation II
   description: In this lecture we will continue our development of models
     within the framework of loss minimization. In particular, we will explore
-    how calculus can be used to analytically and numerically minimize loss
-    functions. We will introduce the widely used gradient descent algorithm
-    in the context of recommendation systems.
+    how to numerically minimize loss functions. We will also introduce multidimensional
+    models and define the notion of the gradient of a function. To minimize functions,
+    wWe will introduce the widely used gradient descent algorithm.
+  slides: assets/lectures/lec09/09-Models-and-Estimation-II.ipynb 
   resources: |
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
 
