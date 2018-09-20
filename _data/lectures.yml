@@ -199,9 +199,11 @@
     how to numerically minimize loss functions. We will also introduce multidimensional
     models and define the notion of the gradient of a function. To minimize functions,
     wWe will introduce the widely used gradient descent algorithm.
-  slides: assets/lectures/lec09/09-Models-and-Estimation-II.ipynb 
+  slides: assets/lectures/lec09/09-Models-and-Estimation-II.pptx 
   resources: |
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
+    - [code](assets/lectures/lec09/assets/lectures/lec09/09-Models-and-Estimation-II.ipynb)
+
 
 - date: 9/25/18
   topic: Generalization and Empirical Risk Minimization
