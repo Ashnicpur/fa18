@@ -202,7 +202,8 @@
   slides: assets/lectures/lec09/09-modeling-and-estimation-II.pptx
   resources: |
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
-    - [code](assets/lectures/lec09/assets/lectures/lec09/09-Models-and-Estimation-II.ipynb)
+    - [Demo Notebook](assets/lectures/lec09/assets/lectures/lec09/09-Models-and-Estimation-II.ipynb)
+      - [HTML Version](assets/lectures/lec09/assets/lectures/lec09/09-Models-and-Estimation-II.ipynb)
 
 
 - date: 9/25/18
