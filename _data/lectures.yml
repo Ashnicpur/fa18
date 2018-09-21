@@ -184,7 +184,9 @@
   lab: |
     - Lab4
     - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab04/lab04_solution.ipynb)
-  discussion: Disc4
+  discussion: |
+    - [Disc4](https://github.com/DS-100/fa18/blob/master/disc/disc04/disc04.pdf)
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc04/disc04_solution.pdf)
   resources: |
     - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
     - [Estimation notebook (HTML Version)](assets/lectures/lec08/Estimation.html)
