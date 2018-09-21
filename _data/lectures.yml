@@ -198,7 +198,7 @@
     within the framework of loss minimization. In particular, we will explore
     how to numerically minimize loss functions. We will also introduce multidimensional
     models and define the notion of the gradient of a function. To minimize functions,
-    wWe will introduce the widely used gradient descent algorithm.
+    we will introduce the widely used gradient descent algorithm.
   slides: assets/lectures/lec09/09-modeling-and-estimation-II.pptx
   resources: |
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
