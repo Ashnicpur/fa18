@@ -179,9 +179,9 @@
     enable effective prediction. In this lecture we address the fundamental
     question of choosing a number and more generally a model that reflects
     the data. We will introduce the concept of loss functions and begin to
-    develop basic models. we will explore how calculus can be used to 
+    develop basic models. we will explore how calculus can be used to
     analytically and minimize loss functions.
-  slides: assets/lectures/lec08/08-modeling-and-estimation.pptx   
+  slides: assets/lectures/lec08/08-modeling-and-estimation.pptx
   lab: |
     - Lab4
     - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab04/lab04_solution.ipynb)
@@ -195,7 +195,7 @@
     - [convex-functions notebook (HTML Version)](assets/lectures/lec08/convex-functions.html)
     - [Screencast](https://www.youtube.com/watch?v=H55b-vAfBOc)
     - [code and data (includes notebooks and scripts as needed)](assets/lectures/lec08/code.zip)
-    
+
 - date: 9/20/18
   topic: Modeling and Estimation II
   description: In this lecture we will continue our development of models
@@ -212,12 +212,31 @@
 
 - date: 9/25/18
   topic: Generalization and Empirical Risk Minimization
+  description: So far, we have focused on how we can estimate a descriptive
+    statistic or more generally the parameters of a model that reflects our data.
+    What does this say about the population? How can we generalize beyond what we
+    observe? In this lecture we recast our loss minimization approach in the
+    context of empirical risk minimization. In the process we will review basic
+    probability concepts including expectation, bias, and variance.
   lab: 'Lab5 '
   discussion: Disc5
   homework: HW2 Due, HW3 Released
+  resources: |
+    - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
 
 - date: 9/27/18
   topic: Linear Regression and Feature Engineering
+  description: Linear regression is at the foundation of most machine learning
+    and statistical methods. We have already introduced linear models in an
+    informal way; in this lecture we formalize the setup of a linear model as
+    a parametric description of a dataset whose parameters can be estimated
+    computationally. We study the normal equations from the perspective of
+    optimization and discuss some of the computational issues around solving
+    the normal equations. We will then transition to the task of feature
+    engineering and describe a range of techniques for transforming data to
+    enable linear models to fit complex relationships.
+  resources: |
+    - [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
 
 - date: 10/2/18
   topic: Bias Variance Tradeoff and Regularization
