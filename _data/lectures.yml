@@ -50,7 +50,9 @@
   discussion: |
     - Disc0
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc00/disc00.ipynb)
-  homework: HW0 Released, due 9/3 11:59PM
+  homework: |
+    - HW0 Released, due 9/3 11:59PM
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/hw/hw0/hw0_solution.ipynb)
 
 - date: 8/28/18
   topic: Data Manipulation with Pandas I
