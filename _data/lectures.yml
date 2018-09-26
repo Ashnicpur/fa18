@@ -209,7 +209,7 @@
   resources: |
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
     - [Demo Notebook](assets/lectures/lec09/09-Models-and-Estimation-II.ipynb)
-      - [HTML Version](assets/lectures/lec09/09-Models-and-Estimation-II.html)
+    - [HTML Version](assets/lectures/lec09/09-Models-and-Estimation-II.html)
 
 
 - date: 9/25/18
@@ -245,11 +245,11 @@
 - date: 10/2/18
   topic: Bias-Variance Tradeoff and Regularization
   description: There is a fundamental tension in predictive modeling between
-  our ability to fit the data and to generalize to the world. In this lecture
-  we characterize this tension through the tradeoff between bias and variance.
-  We will derive the bias and variance decomposition of the least squares
-  objective. We then discuss how to manage this tradeoff by augmenting our
-  objective with a regularization penalty.
+    our ability to fit the data and to generalize to the world. In this lecture
+    we characterize this tension through the tradeoff between bias and variance.
+    We will derive the bias and variance decomposition of the least squares
+    objective. We then discuss how to manage this tradeoff by augmenting our
+    objective with a regularization penalty.
   lab: 'Lab6 '
   discussion: Disc6
   resources: |
@@ -258,18 +258,18 @@
 - date: 10/4/18
   topic: Cross-validation and Regularization
   description: In this lecture we will then explore the challenges of
-  overfitting and review how regularization can be used to address
-  overfitting. We will introduce cross-validation as a mechanism to estimate
-  the test error and to select the regularization parameters.
+    overfitting and review how regularization can be used to address
+    overfitting. We will introduce cross-validation as a mechanism to estimate
+    the test error and to select the regularization parameters.
   resources: |
-    -[Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
+    - [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
 
 - date: 10/9/18
   topic: Ethics
   description: Data science is being used in growing number of settings to
-  make decisions that impact people's lives. In this lecture we will discuss
-  just a few of the many ethical and legal considerations in the application
-  of data science to real-world problems.
+    make decisions that impact people's lives. In this lecture we will discuss
+    just a few of the many ethical and legal considerations in the application
+    of data science to real-world problems.
   lab: 'Lab7 '
   discussion: Disc7
   homework: HW3 Due
@@ -278,11 +278,12 @@
 - date: 10/11/18
   topic: Midterm Review
   description: This lecture will review key topics from the course that
-  will be covered on the midterm.
+    will be covered on the midterm.
   discussion: Midterm Review
 
 - date: 10/16/18
-  topic: Midterm 10/17 8-10 PM
+  topic: Midterm
+  description: The midterm will take place on 10/17 from 8-10 PM.
   lab: Midterm Review
   discussion: Disc8
 
