@@ -225,6 +225,8 @@
   homework: HW2 Due, HW3 Released
   resources: |
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
+    - name: 10-prob-generalization (PPTX)
+      url: assets/lectures/lec10/10-prob-generalization.pptx
 
 - date: 9/27/18
   topic: Linear Regression and Feature Engineering
