@@ -223,10 +223,9 @@
   lab: 'Lab5 '
   discussion: Disc5
   homework: HW2 Due, HW3 Released
+  slides: assets/lectures/lec10/10-prob-generalization.pptx
   resources: |
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
-    - name: 10-prob-generalization (PPTX)
-      url: assets/lectures/lec10/10-prob-generalization.pptx
 
 - date: 9/27/18
   topic: Linear Regression and Feature Engineering
@@ -248,7 +247,7 @@
   discussion: Disc6
 
 - date: 10/4/18
-  topic: Cross-validation and regularization
+  topic: Cross-validation and Regularization
 
 - date: 10/9/18
   topic: Ethics
