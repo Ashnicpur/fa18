@@ -224,7 +224,9 @@
   lab: |
     - Lab5
     - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab05/lab05_solution.ipynb)
-  discussion: Disc5
+  discussion: |
+    - [Disc5](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05.pdf)
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05_solution.pdf)
   homework: HW2 Due, HW3 Released
   slides: assets/lectures/lec10/10-prob-generalization.pptx
   resources: |
