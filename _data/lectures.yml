@@ -210,6 +210,7 @@
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
     - [Demo Notebook](assets/lectures/lec09/09-Models-and-Estimation-II.ipynb)
     - [HTML Version](assets/lectures/lec09/09-Models-and-Estimation-II.html)
+    - [Screencast](https://www.youtube.com/watch?v=ks5z4GQg6R0)
 
 
 - date: 9/25/18
@@ -228,6 +229,7 @@
   slides: assets/lectures/lec10/10-prob-generalization.pptx
   resources: |
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
+    - [Screencast](https://www.youtube.com/watch?v=o3EQnGw-RIw)
 
 - date: 9/27/18
   topic: Linear Regression and Feature Engineering
