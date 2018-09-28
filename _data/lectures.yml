@@ -247,6 +247,8 @@
   resources: |
     - [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
     - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
+    - [Notebook (HTML)](assets/lectures/lec11/11-Linear-Regression-and-Feature-Engineering.html)
+      - [Notebook (zip)](assets/lectures/lec11/lec11.zip)
 
 - date: 10/2/18
   topic: Bias-Variance Tradeoff and Regularization
