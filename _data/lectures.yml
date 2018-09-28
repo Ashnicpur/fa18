@@ -278,7 +278,18 @@
   description: Data science is being used in growing number of settings to
     make decisions that impact people's lives. In this lecture we will discuss
     just a few of the many ethical and legal considerations in the application
-    of data science to real-world problems.
+    of data science to real-world problems. Our guest speaker Joshua Kroll is a
+    computer scientist and researcher interested in the governance of automated
+    decision-making systems, especially those built with machine learning. He
+    is currently a Postdoctoral Research Scholar at UC Berkeley’s School of
+    Information, working with Deirdre Mulligan. Before that he received a
+    PhD in Computer Science in the Security Group at Princeton University.
+    His dissertation on Accountable Algorithms was advised by Edward W.
+    Felten and supported by the Center for Information Technology Policy
+    where he studied topics in security, privacy, and technology’s impact
+    on policy decisions. Joshua was the program chair of this year’s edition 
+    of the successful workshop series “Fairness, Accountability, and
+    Transparency in Machine Learning (FAT/ML)”.
   lab: 'Lab7 '
   discussion: Disc7
   homework: HW3 Due
