@@ -209,7 +209,7 @@
   resources: |
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
     - [Demo Notebook](assets/lectures/lec09/09-Models-and-Estimation-II.ipynb)
-    - [HTML Version](assets/lectures/lec09/09-Models-and-Estimation-II.html)
+      - [HTML Version](assets/lectures/lec09/09-Models-and-Estimation-II.html)
     - [Screencast](https://www.youtube.com/watch?v=ks5z4GQg6R0)
 
 
@@ -227,7 +227,7 @@
   discussion: |
     - [Disc5](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05.pdf)
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05_solution.pdf)
-  homework: HW2 Due, HW3 Released
+  homework: HW2 Due, HW3 Released, due 10/9 11:59 PM
   slides: assets/lectures/lec10/10-prob-generalization.pptx
   resources: |
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
