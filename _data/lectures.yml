@@ -261,7 +261,8 @@
     We will derive the bias and variance decomposition of the least squares
     objective. We then discuss how to manage this tradeoff by augmenting our
     objective with a regularization penalty.
-  lab: 'Lab6 '
+  lab: 
+    - [HTML](assets/labs/lab06.html)
   discussion: Disc6
   resources: |
     - [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
