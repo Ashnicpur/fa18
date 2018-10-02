@@ -252,6 +252,7 @@
     - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
     - [Notebook (HTML)](assets/lectures/lec11/11-Linear-Regression-and-Feature-Engineering.html)
       - [Notebook (zip)](assets/lectures/lec11/lec11.zip)
+    - [Screencast](https://www.youtube.com/watch?v=4NRf1RJyJto)
 
 - date: 10/2/18
   topic: Bias-Variance Tradeoff and Regularization
@@ -261,7 +262,7 @@
     We will derive the bias and variance decomposition of the least squares
     objective. We then discuss how to manage this tradeoff by augmenting our
     objective with a regularization penalty.
-  lab: 
+  lab: |
     - [HTML](assets/labs/lab06.html)
   discussion: Disc6
   resources: |
