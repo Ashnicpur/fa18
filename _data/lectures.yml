@@ -262,18 +262,14 @@
     We will derive the bias and variance decomposition of the least squares
     objective. We then discuss how to manage this tradeoff by augmenting our
     objective with a regularization penalty.
+  slides: assets/lectures/lec12/12-bias-variance-regularization.pptx
   lab: |
-    - [HTML](assets/labs/lab06.html)
+    - [Lab6](assets/labs/lab06.html)
   discussion: Disc6
   resources: |
     - [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
-  links:
-    - name: 12-bias-variance-regularization (PPTX)
-      url: assets/lectures/lec12/12-bias-variance-regularization.pptx
-    - name: Bias_Variance_Regularization_Simplified notebook (HTML Version)
-      url: assets/lectures/lec12/Bias_Variance_Regularization_Simplified.html
-    - name: code and data (includes notebooks and scripts as needed)
-      url: assets/lectures/lec12/code.zip
+    - [Notebook (HTML)](assets/lectures/lec12/Bias_Variance_Regularization_Simplified.html)
+      - [Notebook (zip)](assets/lectures/lec12/code.zip)
 
 - date: 10/4/18
   topic: Cross-validation and Regularization
@@ -298,7 +294,7 @@
     His dissertation on Accountable Algorithms was advised by Edward W.
     Felten and supported by the Center for Information Technology Policy
     where he studied topics in security, privacy, and technology’s impact
-    on policy decisions. Joshua was the program chair of this year’s edition 
+    on policy decisions. Joshua was the program chair of this year’s edition
     of the successful workshop series “Fairness, Accountability, and
     Transparency in Machine Learning (FAT/ML)”.
   lab: 'Lab7 '
