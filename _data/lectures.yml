@@ -265,7 +265,10 @@
   slides: assets/lectures/lec12/12-bias-variance-regularization.pptx
   lab: |
     - [Lab6](assets/labs/lab06.html)
-  discussion: Disc6
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab06/lab06_solution.ipynb)
+  discussion: |
+    - [Disc6](https://github.com/DS-100/fa18/blob/master/disc/disc06/disc06.pdf_
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc06/disc06_solution.pdf)
   resources: |
     - [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
     - [Notebook (HTML)](assets/lectures/lec12/Bias_Variance_Regularization_Simplified.html)
