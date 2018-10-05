@@ -105,7 +105,7 @@
   lab: |
     - Lab2
     - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab02/lab02_solution.ipynb)
-  discussion: Disc2
+  discussion: Lab2
   homework: |
     - HW1 Released, due 9/13 11:59 PM
     - [Solutions](https://github.com/DS-100/fa18/blob/master/hw/hw1/hw1_solution.ipynb)
@@ -276,14 +276,16 @@
 
 - date: 10/4/18
   topic: Cross-Validation and Regularization
-  description: In this lecture we will then explore the challenges of
-    overfitting and review how regularization can be used to address
-    overfitting. We will introduce cross-validation as a mechanism to estimate
-    the test error and to select the regularization parameters.
+  description: In this lecture we will recap our discussion of linear
+    regression by reviewing how to use the scikit learn regression package. We
+    will then explore the challenges of overfitting and review how
+    regularization can be used to address overfitting. We will introduce
+    cross-validation as a mechanism to estimate the test error and to select
+    the regularization parameters.
   slides: assets/lectures/lec13/13-cv_and_regularization.pptx
   resources: |
     - [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
-    - [Textbook: Cross Validatuon](https://www.textbook.ds100.org/ch/15/bias_cv.html)
+    - [Textbook: Cross-Validation](https://www.textbook.ds100.org/ch/15/bias_cv.html)
     - [Bias-Variance and Regularization Notebook (HTML Version)](assets/lectures/lec13/code/Bias_Variance_and_Regularization.html)
     - [Feature Engineering Part 1 Notebook (HTML Version)](assets/lectures/lec13/code/FeatureEngineeringPart1.html)
     - [Feature_Engineering Part 2 Notebook (HTML Version)](assets/lectures/lec13/code/Feature_Engineering_Part_2.html)
@@ -309,20 +311,18 @@
     Transparency in Machine Learning (FAT/ML)”.
   lab: 'Lab7 '
   discussion: Disc7
-  homework: HW3 Due
-  project: Proj1 Released
+  homework: HW3 Due, Proj1 Released
 
 - date: 10/11/18
   topic: Midterm Review
   description: This lecture will review key topics from the course that
     will be covered on the midterm.
-  discussion: Midterm Review
 
 - date: 10/16/18
-  topic: Midterm
+  topic: Midterm (on 10/17)
   description: The midterm will take place on 10/17 from 8-10 PM.
-  lab: Midterm Review
-  discussion: Disc8
+  lab: Midterm Review (Lab8)
+  discussion: Midterm Review (OH)
 
 - date: 10/18/18
   topic: Classification and Logistic Regression I
@@ -330,9 +330,8 @@
 - date: 10/23/18
   topic: Classification and Logistic Regression II
   lab: 'Lab9 '
-  discussion: Disc9
-  homework: HW4 Released
-  project: Proj1 Due
+  discussion: Disc8
+  homework: Proj1 Due, HW4 Released
 
 - date: 10/25/18
   topic: Probability theory, Monte Carlo, Bootstrapping
@@ -340,7 +339,7 @@
 - date: 10/30/18
   topic: Hypothesis Testing I
   lab: 'Lab10 '
-  discussion: Disc10
+  discussion: Disc9
 
 - date: 11/1/18
   topic: Hypothesis Testing II
@@ -349,7 +348,7 @@
 - date: 11/6/18
   topic: SQL
   lab: 'Lab 11 '
-  discussion: Disc11
+  discussion: Disc10
 
 - date: 11/8/18
   topic: Advanced SQL
@@ -357,7 +356,7 @@
 - date: 11/13/18
   topic: Big Data
   lab: 'Lab 12 '
-  discussion: Disc12
+  discussion: Lab 12
   homework: HW5 Due
   project: Proj2 Released
 
@@ -371,11 +370,11 @@
 
 - date: 11/22/18
   topic: Thanksgiving Break
-  discussion: Break
 
 - date: 11/27/18
   topic: Guest Lecture
-  discussion: Disc13
+  lab: 'Lab 14 '
+  discussion: Disc11
   homework: HW6 Released
   project: Proj2 Due
 
