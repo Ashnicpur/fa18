@@ -283,6 +283,7 @@
   slides: assets/lectures/lec13/13-cv_and_regularization.pptx
   resources: |
     - [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
+    - [Textbook: Cross Validatuon](https://www.textbook.ds100.org/ch/15/bias_cv.html)
     - [Bias-Variance and Regularization Notebook (HTML Version)](assets/lectures/lec13/code/Bias_Variance_and_Regularization.html)
     - [Feature Engineering Part 1 Notebook (HTML Version)](assets/lectures/lec13/code/FeatureEngineeringPart1.html)
     - [Feature_Engineering Part 2 Notebook (HTML Version)](assets/lectures/lec13/code/Feature_Engineering_Part_2.html)
