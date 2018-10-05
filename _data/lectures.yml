@@ -275,25 +275,19 @@
       - [Notebook (zip)](assets/lectures/lec12/code.zip)
 
 - date: 10/4/18
-  topic: Cross-validation and Regularization
+  topic: Cross-Validation and Regularization
   description: In this lecture we will then explore the challenges of
     overfitting and review how regularization can be used to address
     overfitting. We will introduce cross-validation as a mechanism to estimate
     the test error and to select the regularization parameters.
+  slides: assets/lectures/lec13/13-cv_and_regularization.pptx
   resources: |
     - [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
-    - name: 13-cv_and_regularization (PPTX)
-      url: assets/lectures/lec13/13-cv_and_regularization.pptx
-    - name: code/Bias_Variance_and_Regularization notebook (HTML Version)
-      url: assets/lectures/lec13/code/Bias_Variance_and_Regularization.html
-    - name: code/FeatureEngineeringPart1 notebook (HTML Version)
-      url: assets/lectures/lec13/code/FeatureEngineeringPart1.html
-    - name: code/Feature_Engineering_Part_2 notebook (HTML Version)
-      url: assets/lectures/lec13/code/Feature_Engineering_Part_2.html
-    - name: code/data/Make Toy Data notebook (HTML Version)
-      url: assets/lectures/lec13/code/data/Make Toy Data.html
-    - name: code and data (includes notebooks and scripts as needed)
-      url: assets/lectures/lec13/code.zip
+    - [Bias-Variance and Regularization Notebook (HTML Version)](assets/lectures/lec13/code/Bias_Variance_and_Regularization.html)
+    - [Feature Engineering Part 1 Notebook (HTML Version)](assets/lectures/lec13/code/FeatureEngineeringPart1.html)
+    - [Feature_Engineering Part 2 Notebook (HTML Version)](assets/lectures/lec13/code/Feature_Engineering_Part_2.html)
+    - [Make Toy Data Notebook (HTML Version)](assets/lectures/lec13/code/data/Make Toy Data.html)
+    - [Notebook (zip)](assets/lectures/lec13/code.zip)
 
 - date: 10/9/18
   topic: Ethics
