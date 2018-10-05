@@ -347,7 +347,7 @@
 
 - date: 11/6/18
   topic: SQL
-  lab: 'Lab 11 '
+  lab: 'Lab11 '
   discussion: Disc10
 
 - date: 11/8/18
@@ -355,17 +355,16 @@
 
 - date: 11/13/18
   topic: Big Data
-  lab: 'Lab 12 '
-  discussion: Lab 12
-  homework: HW5 Due
-  project: Proj2 Released
+  lab: 'Lab12 '
+  discussion: Lab12
+  homework: HW5 Due, Proj2 Released
 
 - date: 11/15/18
   topic: Distributed Computing
 
 - date: 11/20/18
   topic: Web Technologies, REST
-  lab: 'Lab 13 '
+  lab: 'Lab13 '
   discussion: Break
 
 - date: 11/22/18
@@ -373,10 +372,9 @@
 
 - date: 11/27/18
   topic: Guest Lecture
-  lab: 'Lab 14 '
+  lab: 'Lab14 '
   discussion: Disc11
-  homework: HW6 Released
-  project: Proj2 Due
+  homework: Proj2 Due, HW6 Released
 
 - date: 11/29/18
   topic: Guest Lecture
