@@ -282,6 +282,18 @@
     the test error and to select the regularization parameters.
   resources: |
     - [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
+    - name: 13-cv_and_regularization (PPTX)
+      url: assets/lectures/lec13/13-cv_and_regularization.pptx
+    - name: code/Bias_Variance_and_Regularization notebook (HTML Version)
+      url: assets/lectures/lec13/code/Bias_Variance_and_Regularization.html
+    - name: code/FeatureEngineeringPart1 notebook (HTML Version)
+      url: assets/lectures/lec13/code/FeatureEngineeringPart1.html
+    - name: code/Feature_Engineering_Part_2 notebook (HTML Version)
+      url: assets/lectures/lec13/code/Feature_Engineering_Part_2.html
+    - name: code/data/Make Toy Data notebook (HTML Version)
+      url: assets/lectures/lec13/code/data/Make Toy Data.html
+    - name: code and data (includes notebooks and scripts as needed)
+      url: assets/lectures/lec13/code.zip
 
 - date: 10/9/18
   topic: Ethics
