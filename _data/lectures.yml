@@ -312,6 +312,9 @@
   lab: 'Lab7 '
   discussion: Disc7
   homework: HW3 Due, Proj1 Released
+  links:
+    - name: 2018-10-09_ethics-in-data-science (PPTX)
+      url: assets/lectures/lec14/2018-10-09_ethics-in-data-science.pptx
 
 - date: 10/11/18
   topic: Midterm Review
