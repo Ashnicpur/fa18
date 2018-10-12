@@ -309,12 +309,10 @@
     on policy decisions. Joshua was the program chair of this year’s edition
     of the successful workshop series “Fairness, Accountability, and
     Transparency in Machine Learning (FAT/ML)”.
+  slides: assets/lectures/lec14/2018-10-09_ethics-in-data-science.pptx
   lab: 'Lab7 '
   discussion: Disc7
   homework: HW3 Due, Proj1 Released
-  links:
-    - name: 2018-10-09_ethics-in-data-science (PPTX)
-      url: assets/lectures/lec14/2018-10-09_ethics-in-data-science.pptx
 
 - date: 10/11/18
   topic: Midterm Review
