@@ -273,6 +273,7 @@
     - [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
     - [Notebook (HTML)](assets/lectures/lec12/Bias_Variance_Regularization_Simplified.html)
       - [Notebook (zip)](assets/lectures/lec12/code.zip)
+    - [Screencast](https://www.youtube.com/watch?v=uIzdjhm-7FI)
 
 - date: 10/4/18
   topic: Cross-Validation and Regularization
@@ -291,6 +292,7 @@
     - [Feature_Engineering Part 2 Notebook (HTML Version)](assets/lectures/lec13/code/Feature_Engineering_Part_2.html)
     - [Make Toy Data Notebook (HTML Version)](assets/lectures/lec13/code/data/Make Toy Data.html)
     - [Notebook (zip)](assets/lectures/lec13/code.zip)
+    - [Screencast](https://www.youtube.com/watch?v=1dIKn177M1g)
 
 - date: 10/9/18
   topic: Ethics
@@ -310,15 +312,23 @@
     of the successful workshop series “Fairness, Accountability, and
     Transparency in Machine Learning (FAT/ML)”.
   slides: assets/lectures/lec14/2018-10-09_ethics-in-data-science.pptx
-  lab: 'Lab7 '
-  discussion: Disc7
+  lab: |
+    - Lab7
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab07/lab07_solution.ipynb)
+  discussion: |
+    - [Disc7](https://github.com/DS-100/fa18/blob/master/disc/disc07/disc07.pdf)
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc07/disc07_sol.pdf)
   homework: HW3 Due, Proj1 Released
+  resources: |
+    - [Screencast](https://www.youtube.com/watch?v=AxZDMit8RBY)
 
 - date: 10/11/18
   topic: Midterm Review Part 1
   slides: https://docs.google.com/presentation/d/1NGPIcohNqH1sccpgTg-wnJaxtsiq5W0N2uRj3n-izpM/edit?usp=sharing
   description: This lecture will review key topics from the course that
     will be covered on the midterm.
+  resources: |
+    - [Screencast](https://www.youtube.com/watch?v=pHqBMtmeP-8)
 
 - date: 10/16/18
   topic: Midterm Review Part 2
@@ -328,58 +338,124 @@
 
 - date: 10/18/18
   topic: Classification and Logistic Regression I
+  description: We consider the case in which our response is categorical;
+    in particular, we focus on the simple case in which the response has two
+    categories. We begin by using least squares to fit the binary response to
+    categorical explanatory variables and find that the predictions are
+    proportions. Next, we consider a more complex model (the linear probability
+    model) that is linear in quantitative explanatory variables, and we uncover
+    the limitations of this model. We motivate an alternative model, the
+    logistic, by examining a local linear fit and matching its shape. We also
+    draw connections between the logistic and log odds. Lastly, we introduce
+    an alternative loss function that is more appropriate for working with
+    probabilities: the Kullback-Leibler divergence. We derive a representation
+    of the K-L divergence for binary response variables.
 
 - date: 10/23/18
   topic: Classification and Logistic Regression II
+  description: Continued discussion of material in the previous lecture.
   lab: 'Lab9 '
   discussion: Disc8
   homework: Proj1 Due, HW4 Released
 
 - date: 10/25/18
   topic: Probability theory, Monte Carlo, Bootstrapping
+  description: We saw previously that we can study parameter estimators
+    using theoretical and computational approaches. In this lecture we will
+    delve deeper into the bootstrap to study the behavior of the empirical
+    75th percentile as an estimator for its population counterpart. We will
+    derive the empirical quantile through the optimization of a loss function,
+    show that the population parameter minimizes the expected loss, bootstrap
+    the sampling distribution of the empirical 75th percentile, and use the
+    bootstrapped distribution to provide interval estimates for the population
+    parameter.
 
 - date: 10/30/18
   topic: Hypothesis Testing I
+  description: A key step in inference is often answering a question about
+    the world. We will consider three such questions to varying degrees of
+    detail: 1) Is there enough evidence to bring someone to trial? 2) Is
+    there evidence of an earth-like planet orbiting a star? 3) Do female TAs
+    get lower teaching evaluations than male TAs? We use hypothesis testing to
+    answer these questions. In particular, we examine a collection of
+    non-parametric hypothesis tests. These powerful procedures build on the
+    basic idea of random simulation to help quantify the rarity of a particular
+    phenomenon. In the process of using these procedures we will also touch on
+    the challenges of false discovery and multiple testing.
   lab: 'Lab10 '
   discussion: Disc9
 
 - date: 11/1/18
   topic: Hypothesis Testing II
+  description: Continued discussion of material in the previous lecture.
   homework: HW4 Due, HW5 Released
 
 - date: 11/6/18
   topic: SQL
+  description: Much of the the important data in the world is stored in
+    relational database management systems. In this lecture we will introduce
+    the key concepts in relational databases including the relational data
+    model, basic schema design, and data independence. We will then begin to
+    dig into the SQL language for accessing and manipulating relational data.
   lab: 'Lab11 '
   discussion: Disc10
 
 - date: 11/8/18
   topic: Advanced SQL
+  description: In this lecture we review more advanced SQL queries including
+  joins and common table expressions, and we discuss how we can combine
+  computation in a database with Python.
 
 - date: 11/13/18
   topic: Big Data
+  description: Data management at the level of big organizations can be
+    confusing and often relies on many different technologies. In this
+    lecture we will provide an overview of organizational data management
+    and introduce some of the key technologies used to store large amounts
+    of data. We will introduce various data representation techniques for
+    database design, and we will discuss the tradeoffs between different
+    methods of enterprise data management.
   lab: 'Lab12 '
   discussion: Lab12
   homework: HW5 Due, Proj2 Released
 
 - date: 11/15/18
   topic: Distributed Computing
+  description: Distributed computing is the process in which multiple
+    computers work together to accomplish a computational task. In this
+    lecture we will discuss various distributed computing methods that we
+    can use to work with data at scale. In particular, we will introduce
+    programming with Spark, a parallel execution engine for big data
+    processing.
 
 - date: 11/20/18
   topic: Web Technologies, REST
+  description: Data are available on the Internet - they can be embedded in
+    web pages, provided after a form submission, and accessible through a
+    REST API. We can access data from these various sources using HTTP - the
+    Hypertext Transfer Protocol. We will cover HTTP at a high level and
+    provide examples of how to use it to access web pages, submit forms, and
+    create REST requests. We then cover XML, HTML, and JSON as the primary
+    document formats for web pages.
   lab: 'Lab13 '
   discussion: Break
 
 - date: 11/22/18
   topic: Thanksgiving Break
+  description: Enjoy your break!
 
 - date: 11/27/18
   topic: Guest Lecture
+  description: There will be a guest lecturer on this day. Stay tuned for the
+    topic!
   lab: 'Lab14 '
   discussion: Disc11
   homework: Proj2 Due, HW6 Released
 
 - date: 11/29/18
   topic: Guest Lecture
+  description: There will be a guest lecturer on this day. Stay tuned for the
+    topic!
 
 - date: 12/4/18
   topic: RRR week
