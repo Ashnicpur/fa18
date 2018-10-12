@@ -350,6 +350,8 @@
     an alternative loss function (the Kullback-Leibler divergence) that is
     more appropriate for working with probabilities. We derive a representation
     of the K-L divergence for binary response variables.
+  resources: |
+    - [Textbook: Classification](https://www.textbook.ds100.org/ch/17/classification_intro.html)
 
 - date: 10/23/18
   topic: Classification and Logistic Regression II
@@ -384,6 +386,8 @@
     the challenges of false discovery and multiple testing.
   lab: 'Lab10 '
   discussion: Disc9
+  resources: |
+    - [Textbook: Statistical Inference](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
 
 - date: 11/1/18
   topic: Hypothesis Testing II
@@ -399,6 +403,8 @@
     dig into the SQL language for accessing and manipulating relational data.
   lab: 'Lab11 '
   discussion: Disc10
+  resources: |
+    - [Textbook: SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
 
 - date: 11/8/18
   topic: Advanced SQL
@@ -439,6 +445,8 @@
     document formats for web pages.
   lab: 'Lab13 '
   discussion: Break
+  resources: |
+    - [Textbook: Web Technologies](https://www.textbook.ds100.org/ch/07/web_intro.html)
 
 - date: 11/22/18
   topic: Thanksgiving Break
