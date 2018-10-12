@@ -312,16 +312,16 @@
   slides: assets/lectures/lec14/2018-10-09_ethics-in-data-science.pptx
   lab: 'Lab7 '
   discussion: Disc7
-  homework: HW3 Due, Proj1 Released
+  homework: HW3 Due, Proj1 Released, due 10/23 11:59 PM
 
 - date: 10/11/18
-  topic: Midterm Review
+  topic: Midterm Review Part 1
   slides: https://docs.google.com/presentation/d/1NGPIcohNqH1sccpgTg-wnJaxtsiq5W0N2uRj3n-izpM/edit?usp=sharing
   description: This lecture will review key topics from the course that
     will be covered on the midterm.
 
 - date: 10/16/18
-  topic: Midterm (on 10/17)
+  topic: Midterm Review Part 2
   description: The midterm will take place on 10/17 from 8-10 PM.
   lab: Midterm Review (Lab8)
   discussion: Midterm Review (OH)
