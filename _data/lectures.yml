@@ -51,7 +51,7 @@
     - Disc0
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc00/disc00.ipynb)
   homework: |
-    - HW0 Released, due 9/3 11:59PM
+    - HW0 Released
     - [Solutions](https://github.com/DS-100/fa18/blob/master/hw/hw0/hw0_solution.ipynb)
 
 - date: 8/28/18
@@ -107,7 +107,7 @@
     - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab02/lab02_solution.ipynb)
   discussion: Lab2
   homework: |
-    - HW1 Released, due 9/13 11:59 PM
+    - HW0 Due, HW1 Released
     - [Solutions](https://github.com/DS-100/fa18/blob/master/hw/hw1/hw1_solution.ipynb)
   resources: |
     - [Textbook: Data Cleaning](https://www.textbook.ds100.org/ch/04/cleaning_intro.html)
@@ -169,7 +169,7 @@
     for subsequent tabular analysis. We will also introduce regular expressions
     as a mechanism for cleaning and transforming text data.
   slides: https://docs.google.com/presentation/d/1ECr_XrDJXaLK-eGwWlydLjJu-3xwpzFcV4fGMSfwKwU/edit?usp=sharing
-  homework: HW1 Due, HW2 Released, due 9/25 11:59 PM
+  homework: HW1 Due, HW2 Released
   resources: |
     - [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
     - [Screencast](https://www.youtube.com/watch?v=7jJlJU7bFe8)
@@ -229,7 +229,7 @@
   discussion: |
     - [Disc5](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05.pdf)
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05_solution.pdf)
-  homework: HW2 Due, HW3 Released, due 10/9 11:59 PM
+  homework: HW2 Due, HW3 Released
   slides: assets/lectures/lec10/10-prob-generalization.pptx
   resources: |
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
@@ -312,7 +312,7 @@
   slides: assets/lectures/lec14/2018-10-09_ethics-in-data-science.pptx
   lab: 'Lab7 '
   discussion: Disc7
-  homework: HW3 Due, Proj1 Released, due 10/23 11:59 PM
+  homework: HW3 Due, Proj1 Released
 
 - date: 10/11/18
   topic: Midterm Review Part 1
@@ -324,7 +324,7 @@
   topic: Midterm Review Part 2
   description: The midterm will take place on 10/17 from 8-10 PM.
   lab: Midterm Review (Lab8)
-  discussion: Midterm Review (OH)
+  discussion: Midterm OH
 
 - date: 10/18/18
   topic: Classification and Logistic Regression I
