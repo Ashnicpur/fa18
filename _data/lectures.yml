@@ -359,6 +359,16 @@
     of the K-L divergence for binary response variables.
   resources: |
     - [Textbook: Classification](https://www.textbook.ds100.org/ch/17/classification_intro.html)
+    - name: 17-classification (PPTX)
+      url: assets/lectures/lec17/17-classification.pptx
+    - name: code/ExtraPlots notebook (HTML Version)
+      url: assets/lectures/lec17/code/ExtraPlots.html
+    - name: code/LogisticRegressionPart1 notebook (HTML Version)
+      url: assets/lectures/lec17/code/LogisticRegressionPart1.html
+    - name: code/LogisticRegressionPart2 notebook (HTML Version)
+      url: assets/lectures/lec17/code/LogisticRegressionPart2.html
+    - name: code and data (includes notebooks and scripts as needed)
+      url: assets/lectures/lec17/code.zip
 
 - date: 10/23/18
   topic: Classification and Logistic Regression II
