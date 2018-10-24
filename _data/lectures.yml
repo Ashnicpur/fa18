@@ -372,6 +372,10 @@
   lab: 'Lab9 '
   discussion: Disc8
   homework: Proj1 Due, HW4 Released
+  resources: |
+    - name: 18-classification_part2 (PPTX)
+      url: assets/lectures/lec18/18-classification_part2.pptx
+
 
 - date: 10/25/18
   topic: Probability theory, Monte Carlo, Bootstrapping
