@@ -388,18 +388,12 @@
     the sampling distribution of the empirical 75th percentile, and use the
     bootstrapped distribution to provide interval estimates for the population
     parameter.
-  links:
-    - name: 19-boostrap-mc (PPTX)
-      url: assets/lectures/lec19/19-boostrap-mc.pptx
-    - name: central-limit notebook (HTML Version)
-      url: assets/lectures/lec19/central-limit.html
-    - name: prngs notebook (HTML Version)
-      url: assets/lectures/lec19/prngs.html
-    - name: restaurant-estimation notebook (HTML Version)
-      url: assets/lectures/lec19/restaurant-estimation.html
-    - name: code and data (includes notebooks and scripts as needed)
-      url: assets/lectures/lec19/code.zip
-
+  slides: assets/lectures/lec19/19-boostrap-mc.pptx
+  resources: |
+    - [Central Limit Theorem notebook (HTML Version)](assets/lectures/lec19/central-limit.html)
+    - [PRNG notebook (HTML Version)](assets/lectures/lec19/prngs.html)
+    - [Restaurant Estimation notebook (HTML Version)](assets/lectures/lec19/restaurant-estimation.html)
+    - [Notebook (zip)](assets/lectures/lec19/code.zip)
 
 - date: 10/30/18
   topic: Hypothesis Testing I
