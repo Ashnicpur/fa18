@@ -369,9 +369,8 @@
 - date: 10/23/18
   topic: Classification and Logistic Regression II
   description: Continued discussion of material in the previous lecture.
-  lab: 'Lab9 '
+  lab: 'Project 1 OH '
   discussion: Disc8
-  homework: Proj1 Due, HW4 Released
   slides: assets/lectures/lec18/18-classification_part2.pptx
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=MMqhh_Xs-24)
@@ -389,11 +388,11 @@
     bootstrapped distribution to provide interval estimates for the population
     parameter.
   slides: assets/lectures/lec19/19-boostrap-mc.pptx
+  homework: Proj1 Due, HW4 Released
   resources: |
-    - [Central Limit Theorem notebook (HTML Version)](assets/lectures/lec19/central-limit.html)
-    - [PRNG notebook (HTML Version)](assets/lectures/lec19/prngs.html)
-    - [Restaurant Estimation notebook (HTML Version)](assets/lectures/lec19/restaurant-estimation.html)
-    - [Notebook (zip)](assets/lectures/lec19/code.zip)
+    - [Central Limit Theorem notebook](assets/lectures/lec19/central-limit.ipynb)
+    - [PRNG notebook](assets/lectures/lec19/prngs.ipynb)
+    - [Restaurant Estimation notebook](assets/lectures/lec19/restaurant-estimation.ipynb)
 
 - date: 10/30/18
   topic: Hypothesis Testing I
@@ -407,7 +406,7 @@
     basic idea of random simulation to help quantify the rarity of a particular
     phenomenon. In the process of using these procedures we will also touch on
     the challenges of false discovery and multiple testing.
-  lab: 'Lab10 '
+  lab: 'Lab9 '
   discussion: Disc9
   resources: |
     - [Textbook: Statistical Inference](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
@@ -415,7 +414,6 @@
 - date: 11/1/18
   topic: Hypothesis Testing II
   description: Continued discussion of material in the previous lecture.
-  homework: HW4 Due, HW5 Released
 
 - date: 11/6/18
   topic: SQL
@@ -424,8 +422,9 @@
     the key concepts in relational databases including the relational data
     model, basic schema design, and data independence. We will then begin to
     dig into the SQL language for accessing and manipulating relational data.
-  lab: 'Lab11 '
+  lab: 'Lab10 '
   discussion: Disc10
+  homework: HW4 Due, HW5 Released
   resources: |
     - [Textbook: SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
 
@@ -444,8 +443,8 @@
     of data. We will introduce various data representation techniques for
     database design, and we will discuss the tradeoffs between different
     methods of enterprise data management.
-  lab: 'Lab12 '
-  discussion: Lab12
+  lab: 'Lab11 '
+  discussion: Lab11
   homework: HW5 Due, Proj2 Released
 
 - date: 11/15/18
@@ -466,7 +465,7 @@
     provide examples of how to use it to access web pages, submit forms, and
     create REST requests. We then cover XML, HTML, and JSON as the primary
     document formats for web pages.
-  lab: 'Lab13 '
+  lab: 'Lab12 '
   discussion: Break
   resources: |
     - [Textbook: Web Technologies](https://www.textbook.ds100.org/ch/07/web_intro.html)
@@ -479,7 +478,7 @@
   topic: Guest Lecture
   description: There will be a guest lecturer on this day. Stay tuned for the
     topic!
-  lab: 'Lab14 '
+  lab: 'Lab13 '
   discussion: Disc11
   homework: Proj2 Due, HW6 Released
 
