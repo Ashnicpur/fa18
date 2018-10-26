@@ -370,7 +370,9 @@
   topic: Classification and Logistic Regression II
   description: Continued discussion of material in the previous lecture.
   lab: 'Project 1 OH '
-  discussion: Disc8
+  discussion: |
+    - [Disc8](https://github.com/DS-100/fa18/blob/master/disc/disc08/disc08.pdf)
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc08/disc08-sol.pdf)
   slides: assets/lectures/lec18/18-classification_part2.pptx
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=MMqhh_Xs-24)
@@ -393,6 +395,7 @@
     - [Central Limit Theorem notebook](assets/lectures/lec19/central-limit.ipynb)
     - [PRNG notebook](assets/lectures/lec19/prngs.ipynb)
     - [Restaurant Estimation notebook](assets/lectures/lec19/restaurant-estimation.ipynb)
+    - [Screencast](https://www.youtube.com/watch?v=GogImv9GrwE)
 
 - date: 10/30/18
   topic: Hypothesis Testing I
