@@ -139,9 +139,9 @@ differences in package versions.
         # sanity check on conda installation
         conda --version
 		
-	# update conda just in case it's out of date
-	# enter y if prompted to proceed
-	conda update conda
+		# update conda just in case it's out of date
+		# enter y if prompted to proceed
+		conda update conda
         
         # Create a python 3.6 conda environment with the full set
         # of packages specified in environment.yml (jupyter, numpy, pandas, ...)
@@ -150,9 +150,9 @@ differences in package versions.
         # Switch to the data100 environment
         source activate data100 # omit the 'source' part on Windows
 		
-	# Check if packages are in the environment
-	# This should not be empty!
-	conda list
+		# Check if packages are in the environment
+		# This should not be empty!
+		conda list
 
 From now on, you can switch to the `data100` env with `source activate data100`, and switch back to the default env with `source deactivate`. 
    
