@@ -7,11 +7,10 @@ description: "Instructions to set up your data science environment."
 
 ## Contents
 
-- **Machine Installation**
+- **Installing conda by OS**
   - [OSX](#osx)
   - [Windows](#windows)
   - [Linux](#linux)
-  - [Chromebook](#working-on-jupyterhub)
 - [Creating your environment](#creating-your-environment)
 - [Working on assignments locally](#working-on-assignments-locally)
 - [Opening notebooks locally](#opening-notebooks-locally)
