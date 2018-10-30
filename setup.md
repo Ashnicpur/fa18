@@ -76,7 +76,7 @@ scratch.
 1. Verify that the installation is working by starting the Anaconda Prompt (you
    should be able to start it from the Start Menu) and typing `python`:
 
-   ![windowsconda02](asset/local_setup/windows_conda02.PNG)
+   ![windowsconda02](assets/local_setup/windows_conda02.PNG)
 
    Notice how the `python` prompt shows that it is running from Anaconda. Now
    you have `conda` installed!
