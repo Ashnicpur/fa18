@@ -122,7 +122,7 @@ You may remove the `install_anaconda.sh` script now if you'd like.
 These instructions are the same for OSX, Windows, and Linux.
 
 1. Download the data100 `data100_environment.yml`] from the course repository 
-   [here](assets/local_setup/data100_environment.yml) or:
+   [here](https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml) or:
 
         # download via curl
         curl https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml > data100_environment.yml
