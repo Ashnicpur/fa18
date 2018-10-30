@@ -16,7 +16,8 @@ description: "Instructions to set up your data science environment."
 - [Working on assignments locally](#working-on-assignments-locally)
 - [Opening notebooks locally](#opening-notebooks-locally)
     - [Verifying your environment](#verifying-your-environment)
-- [Working on JupyterHub](#working-on-jupyterhub)
+    - [Removing the environment to start over](#removing-the-environment-to-start-over)
+- [Submitting your work](#submitting-your-work)
 
 ## OSX
 
