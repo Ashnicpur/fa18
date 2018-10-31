@@ -101,7 +101,7 @@ For other distributions of Linux, substitute the appropriate package manager.
 
 3. Download the Anaconda installation script:
 
-        wget -O install_anaconda.sh https://repo.continuum.io/miniconda/Miniconda3-4.3.31-Linux-x86_64.sh 
+        wget -O install_anaconda.sh https://repo.continuum.io/miniconda/Miniconda2-4.5.11-Linux-x86_64.sh
 
 
 4. Install Anaconda:
@@ -128,7 +128,7 @@ These instructions are the same for OSX, Windows, and Linux.
         curl https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml > data100_environment.yml
 
         # OR download via wget
-        wget -O environment.yml https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml
+        wget -O data100_environment.yml https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml
 
 This [YAML](https://en.wikipedia.org/wiki/YAML) file is what we use to specify the dependencies and packages (and their versions) we wish to install into the [conda environment](http://conda.pydata.org/docs/using/envs.html) we will make for this class.  The purpose of the environment is to ensure that everyone in the course is using the same package versions for every assignment whether or not they are working on datahub.  This is to prevent inconsistent behavior due to 
 differences in package versions.
