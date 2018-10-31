@@ -411,8 +411,11 @@
     the challenges of false discovery and multiple testing.
   lab: 'Lab9 '
   discussion: Disc9
+  slides: https://docs.google.com/presentation/d/1r7apHpdxTqlBi8oSVe5k45MtcwA_BJ9AvVmaiNBQ15k/edit?usp=sharing
   resources: |
     - [Textbook: Statistical Inference](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
+    - [Notebook (ipynb)](assets/lectures/lec20/lec20.ipynb)
+    - [Notebook (html)](assets/lectures/lec20/lec20.html)
 
 - date: 11/1/18
   topic: Hypothesis Testing II
