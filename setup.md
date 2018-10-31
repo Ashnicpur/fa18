@@ -62,7 +62,7 @@ scratch.
 
 1. Visit [the Anaconda website](https://www.anaconda.com/download/#download) and download the installer 
    for **Python 3.7**. Download the 64-bit installer if your computer is 64-bit (most likely), the 32-bit
-   installer if not. See [this FAQ](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq)
+   installer if not. See [this FAQ](https://support.microsoft.com/en-us/help/13443/windows-which-operating-system)
    if you are unsure.
 
 1. Run the exe file to install Anaconda.
