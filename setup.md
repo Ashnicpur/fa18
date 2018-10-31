@@ -135,7 +135,7 @@ differences in package versions.
 
 1. Using the **Terminal**, navigate to the directory where you downloaded `data100_environment.yml`. Run these commands to create a new conda environment. Each conda environment maintains its own package versions, allowing us to switch between package versions easily. For example, this class uses Python 3, but you might have another that uses Python 2. With a conda environment, you can switch between those at will.
 
-        # sanity check on conda installation
+        # sanity check on conda installation.  Should be 4.5 or higher
         conda --version
 		
 		# update conda just in case it's out of date
@@ -147,16 +147,13 @@ differences in package versions.
         conda env create -f data100_environment.yml
 
         # Switch to the data100 environment
-        source activate data100 # omit the 'source' part on Windows
+        conda activate data100
 		
 		# Check if packages are in the environment
 		# This should not be empty!
 		conda list
 
-From now on, you can switch to the `data100` env with `source activate data100`, and switch back to the default env with `source deactivate`. 
-   
-**Note**: If you are on Windows, omit the 'source' part and use `activate data100` and `deactivate`.
-
+From now on, you can switch to the `data100` env with `conda activate data100`, and switch back to the default env with `conda deactivate`. 
 
 ## Working on assignments locally
 
@@ -177,7 +174,7 @@ To open Jupyter notebooks, you'll navigate to parent directory of the assignment
 activate the environment, and start up a jupyter server.  This will look something like:
 
 	cd path/to/assignment/directory
-    source activate data100 # omit the `source` part on Windows
+    conda activate data100
     jupyter notebook
 
 
