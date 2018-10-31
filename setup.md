@@ -209,6 +209,6 @@ Which should then no longer display the `data100` environment.
 ## Submitting your work
 
 Submissions will still be handled via datahub.  To upload your work, navigate to the appropriate assignment
-folder on datahub and click on the upload button on the top right.
+folder on datahub and click on the upload button on the top right.  Remember to validate, submit, and upload to Gradescope (for homeworks and projects).
 
 ![uploadhw](assets/local_setup/upload_hw.PNG)
