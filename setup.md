@@ -38,7 +38,7 @@ description: "Instructions to set up your data science environment."
 1. Download and install [Anaconda](https://www.anaconda.com/what-is-anaconda/):
 
         # Uses curl to download the installation script
-        curl https://repo.continuum.io/miniconda/Miniconda2-4.5.11-MacOSX-x86_64.sh  > miniconda.sh
+        curl https://repo.continuum.io/miniconda/Miniconda2-4.5.11-MacOSX-x86_64.sh > miniconda.sh
 
         # Run the miniconda installer (you will need to enter your password)
         bash miniconda.sh
