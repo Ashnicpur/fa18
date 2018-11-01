@@ -145,9 +145,15 @@ differences in package versions.
         # Create a python 3.6 conda environment with the full set
         # of packages specified in environment.yml (jupyter, numpy, pandas, ...)
         conda env create -f data100_environment.yml
-
+	
+		# download git
+		conda install -c anaconda git
+		
         # Switch to the data100 environment
         conda activate data100
+		
+		# install nbgrader dev version
+		pip install git+git://github.com/berkeley-dsep-infra/nbgrader.git@7aba39a
 		
 		# Check if packages are in the environment
 		# This should not be empty!
