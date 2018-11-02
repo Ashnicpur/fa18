@@ -223,7 +223,7 @@ folder on datahub and click on the upload button on the top right.  Remember to 
 
 If you had an older version of Anaconda installed (perhaps for another class), you may see the following message.
 
-![conda_activate](assets/local_setup/conda_activate.PNG)
+![conda_activate](assets/local_setup/conda_activate.png)
 
 Follow the instructions in the prompt to:
 
