@@ -409,20 +409,27 @@
     basic idea of random simulation to help quantify the rarity of a particular
     phenomenon. In the process of using these procedures we will also touch on
     the challenges of false discovery and multiple testing.
-  lab: 'Lab9 '
-  discussion: Disc9
+  lab: |
+    - Lab9
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab09/lab09_solution.ipynb)
+  discussion: |
+    - [Disc9](https://github.com/DS-100/fa18/blob/master/disc/disc09/disc09.pdf)
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc09/disc09_sol.pdf)
   slides: https://docs.google.com/presentation/d/1r7apHpdxTqlBi8oSVe5k45MtcwA_BJ9AvVmaiNBQ15k/edit?usp=sharing
   resources: |
     - [Textbook: Statistical Inference](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
     - [Notebook (ipynb)](assets/lectures/lec20/lec20.ipynb)
     - [Notebook (html)](assets/lectures/lec20/lec20.html)
+    - [Screencast](https://www.youtube.com/watch?v=sBBdooFWTeM)
 
 - date: 11/1/18
-  topic: Hypothesis Testing II
-  description: Continued discussion of material in the previous lecture.
+  topic: Numerical issues, condition numbers, higher dimensions
+  description: This is a new lecture for this semester!
+  resources: |
+    - [Screencast](https://www.youtube.com/watch?v=0km4NFT605U)
 
 - date: 11/6/18
-  topic: SQL
+  topic: SQL and Relational Algebra
   description: Much of the the important data in the world is stored in
     relational database management systems. In this lecture we will introduce
     the key concepts in relational databases including the relational data
@@ -463,14 +470,15 @@
     processing.
 
 - date: 11/20/18
-  topic: Web Technologies, REST
-  description: Data are available on the Internet - they can be embedded in
-    web pages, provided after a form submission, and accessible through a
-    REST API. We can access data from these various sources using HTTP - the
-    Hypertext Transfer Protocol. We will cover HTTP at a high level and
-    provide examples of how to use it to access web pages, submit forms, and
-    create REST requests. We then cover XML, HTML, and JSON as the primary
-    document formats for web pages.
+  topic: A/B Testing
+  description: It is now commonplace for organizations with websites or mobile
+    apps to run randomized controlled experiments, or “A/B tests” as they’re
+    often called in industry. Such experiments provide a reliable way to
+    determine which product changes lead to the most successful user
+    interactions. In this lecture we will discuss why randomized experiments
+    are so important, talk about some of the key design choices that go into
+    A/B tests, and get a brief introduction to sequential monitoring of
+    experimental results.
   lab: 'Lab12 '
   discussion: Break
   resources: |
@@ -489,9 +497,8 @@
   homework: Proj2 Due, HW6 Released
 
 - date: 11/29/18
-  topic: Guest Lecture
-  description: There will be a guest lecturer on this day. Stay tuned for the
-    topic!
+  topic: Conclusion
+  description: This is the last lecture!
 
 - date: 12/4/18
   topic: RRR week
