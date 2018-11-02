@@ -400,11 +400,10 @@
 - date: 10/30/18
   topic: Hypothesis Testing I
   description: A key step in inference is often answering a question about
-    the world. We will consider three such questions to varying degrees of
-    detail. 1) Is there enough evidence to bring someone to trial? 2) Is
-    there evidence of an earth-like planet orbiting a star? 3) Do female TAs
-    get lower teaching evaluations than male TAs? We use hypothesis testing to
-    answer these questions. In particular, we examine a collection of
+    the world. We will consider two such questions to varying degrees of
+    detail. 1) Is there enough evidence to bring someone to trial? 2) Do female
+    TAs get lower teaching evaluations than male TAs? We use hypothesis testing 
+    to answer these questions. In particular, we examine a collection of
     non-parametric hypothesis tests. These powerful procedures build on the
     basic idea of random simulation to help quantify the rarity of a particular
     phenomenon. In the process of using these procedures we will also touch on
@@ -481,8 +480,6 @@
     experimental results.
   lab: 'Lab12 '
   discussion: Break
-  resources: |
-    - [Textbook: Web Technologies](https://www.textbook.ds100.org/ch/07/web_intro.html)
 
 - date: 11/22/18
   topic: Thanksgiving Break
