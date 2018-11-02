@@ -14,9 +14,10 @@ description: "Instructions to set up your data science environment."
 - [Creating your environment](#creating-your-environment)
 - [Working on assignments locally](#working-on-assignments-locally)
 - [Opening notebooks locally](#opening-notebooks-locally)
-    - [Verifying your environment](#verifying-your-environment)
-    - [Removing the environment to start over](#removing-the-environment-to-start-over)
+- [Verifying your environment](#verifying-your-environment)
+- [Removing the environment to start over](#removing-the-environment-to-start-over)
 - [Submitting your work](#submitting-your-work)
+- [FAQ](#faq)
 
 ## OSX
 
@@ -185,7 +186,7 @@ This will automatically open the notebook interface in your browser. You can the
 
 Make sure to **always** work in the `data100` conda environment when you are using jupyter notebooks for this class. This ensures you have all the necessary packages required for the notebook to run.
 
-### Verifying Your Environment
+## Verifying Your Environment
 
 You can tell if you are correct environment if your terminal looks something like:
 
@@ -197,7 +198,7 @@ Additionally,
     
 outputs a list of all your conda environments, and `data100` should appear with a `*` next to it (the active one).
 
-### Removing the environment to start over
+## Removing the environment to start over
   
 If you feel as if you've messed up and need to start over, you can remove the environment with
 
@@ -215,3 +216,17 @@ Submissions will still be handled via datahub.  To upload your work, navigate to
 folder on datahub and click on the upload button on the top right.  Remember to validate, submit, and upload to Gradescope (for homeworks and projects).
 
 ![uploadhw](assets/local_setup/upload_hw.PNG)
+
+## FAQ
+
+### Shell not properly configured to use conda activate
+
+If you had an older version of Anaconda installed (perhaps for another class), you may see the following message.
+
+![conda_activate](assets/local_setup/conda_activate.PNG)
+
+Follow the instructions in the prompt to:
+
+* Enable conda for all users `sudo ln -s ...`
+* Put the base environment on PATH `echo "conda activate" >> ~/.bash_profile"`.  Note that `~/.bash_profile` may be something different like `~/.bashrc`.
+* Manually remove the line that looks like `export PATH="/usr/local/miniconda3/bin:$PATH"` from your `.bash_profile`.
