@@ -229,4 +229,4 @@ Follow the instructions in the prompt to:
 
 * Enable conda for all users `sudo ln -s ...`
 * Put the base environment on PATH `echo "conda activate" >> ~/.bash_profile"`.  Note that `~/.bash_profile` may be something different like `~/.bashrc`.
-* Manually remove the line that looks like `export PATH="/usr/local/miniconda3/bin:$PATH"` from your `.bash_profile`.
+* Manually remove the line that looks like `export PATH="/usr/local/miniconda3/bin:$PATH"` from your `.bash_profile`.  Use your favorite plaintext editor to do this (do not use a rich text editor like Microsoft Word!).
