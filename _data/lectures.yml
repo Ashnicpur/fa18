@@ -402,7 +402,7 @@
   description: A key step in inference is often answering a question about
     the world. We will consider two such questions to varying degrees of
     detail. 1) Is there enough evidence to bring someone to trial? 2) Do female
-    TAs get lower teaching evaluations than male TAs? We use hypothesis testing 
+    TAs get lower teaching evaluations than male TAs? We use hypothesis testing
     to answer these questions. In particular, we examine a collection of
     non-parametric hypothesis tests. These powerful procedures build on the
     basic idea of random simulation to help quantify the rarity of a particular
@@ -434,6 +434,7 @@
     the key concepts in relational databases including the relational data
     model, basic schema design, and data independence. We will then begin to
     dig into the SQL language for accessing and manipulating relational data.
+  slides: assets/lectures/lec22/22-sql.pptx
   lab: 'Lab10 '
   discussion: Disc10
   homework: HW4 Due, HW5 Released
