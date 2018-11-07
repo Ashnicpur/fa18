@@ -428,8 +428,8 @@
     - [Screencast](https://www.youtube.com/watch?v=0km4NFT605U)
 
 - date: 11/6/18
-  topic: SQL and Relational Algebra
-  description: Much of the the important data in the world is stored in
+  topic: SQL
+  description: Much of the important data in the world is stored in
     relational database management systems. In this lecture we will introduce
     the key concepts in relational databases including the relational data
     model, basic schema design, and data independence. We will then begin to
@@ -440,6 +440,8 @@
   homework: HW4 Due, HW5 Released
   resources: |
     - [Textbook: SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
+    - [Notebook (ipynb)](assets/lectures/lec22/sql_introduction_part1.ipynb)
+    - [Notebook (html)](assets/lectures/lec22/sql_introduction_part1.html)
 
 - date: 11/8/18
   topic: Advanced SQL
