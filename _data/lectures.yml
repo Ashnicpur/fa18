@@ -449,6 +449,9 @@
     joins and common table expressions, and we discuss how we can combine
     computation in a database with Python.
   slides: assets/lectures/lec23/23-advanced-sql.pptx
+  resources: |
+    - [Notebook (ipynb)](assets/lectures/lec23/sql_introduction_part2.ipynb)
+    - [Notebook (html)](assets/lectures/lec23/sql_introduction_part2.html)
 
 - date: 11/13/18
   topic: Big Data
