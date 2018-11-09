@@ -52,7 +52,7 @@
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc00/disc00.ipynb)
   homework: |
     - HW0 Released
-    - [Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw0/hw0.ipynb)
+    - [HW0 Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw0/hw0.ipynb)
 
 - date: 8/28/18
   topic: Data Manipulation with Pandas I
@@ -108,7 +108,7 @@
   discussion: Lab2
   homework: |
     - HW0 Due, HW1 Released
-    - [Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw1/hw1.ipynb)
+    - [HW1 Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw1/hw1.ipynb)
   resources: |
     - [Textbook: Data Cleaning](https://www.textbook.ds100.org/ch/04/cleaning_intro.html)
     - [Demo Notebook (ZIP)](assets/lectures/lec04/lec04.zip)
@@ -169,7 +169,9 @@
     for subsequent tabular analysis. We will also introduce regular expressions
     as a mechanism for cleaning and transforming text data.
   slides: https://docs.google.com/presentation/d/1ECr_XrDJXaLK-eGwWlydLjJu-3xwpzFcV4fGMSfwKwU/edit?usp=sharing
-  homework: HW1 Due, HW2 Released
+  homework: |
+      - HW1 Due, HW2 Released
+      - [HW2 Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw2/hw2.ipynb)
   resources: |
     - [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
     - [Screencast](https://www.youtube.com/watch?v=7jJlJU7bFe8)
@@ -230,8 +232,8 @@
     - [Disc5](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05.pdf)
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc05/disc05_solution.pdf)
   homework: |
-    - Homework 2 Due, Homework 3 Released
-    - [Homework 3 Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw2/hw2.ipynb)
+    - HW2 Due, HW3 Released
+    - [HW3 Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw3/hw3.ipynb)
   slides: assets/lectures/lec10/10-prob-generalization.pptx
   resources: |
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
@@ -321,7 +323,6 @@
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc07/disc07_sol.pdf)
   homework: |
     - HW3 Due, Proj1 Released
-    - [HW3 Solutions](https://nbviewer.jupyter.org/github/DS-100/fa18/blob/master/hw/hw3/hw3.ipynb)
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=AxZDMit8RBY)
 
@@ -440,7 +441,6 @@
   discussion: |
     - [Disc10](https://github.com/DS-100/fa18/blob/master/disc/disc10/disc10.pdf)
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc10/disc10_sol.pdf)
-  homework: HW4 Due, HW5 Released
   resources: |
     - [Textbook: SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
     - [Notebook (ipynb)](assets/lectures/lec22/sql_introduction_part1.ipynb)
@@ -453,6 +453,7 @@
     joins and common table expressions, and we discuss how we can combine
     computation in a database with Python.
   slides: assets/lectures/lec23/23-advanced-sql.pptx
+  homework: HW4 Due, HW5 Released
   resources: |
     - [Notebook (ipynb)](assets/lectures/lec23/sql_introduction_part2.ipynb)
     - [Notebook (html)](assets/lectures/lec23/sql_introduction_part2.html)
@@ -469,7 +470,7 @@
     methods of enterprise data management.
   lab: 'Lab11 '
   discussion: Lab11
-  homework: HW5 Due, Proj2 Released
+  homework: Proj2 Released
 
 - date: 11/15/18
   topic: Distributed Computing
@@ -490,8 +491,9 @@
     are so important, talk about some of the key design choices that go into
     A/B tests, and get a brief introduction to sequential monitoring of
     experimental results.
-  lab: 'Lab12 '
+  lab: 'Project 2 OH '
   discussion: Break
+  homework: HW5 Due, HW6 Released
 
 - date: 11/22/18
   topic: Thanksgiving Break
@@ -501,24 +503,24 @@
   topic: Guest Lecture
   description: There will be a guest lecturer on this day. Stay tuned for the
     topic!
-  lab: 'Lab13 '
-  discussion: Disc11
-  homework: Proj2 Due, HW6 Released
+  lab: 'Lab12 '
+  discussion: Disc12
 
 - date: 11/29/18
   topic: Conclusion
   description: This is the last lecture!
+  homework: Proj2 Due
 
 - date: 12/4/18
   topic: RRR week
   description: In this exam review we will cover material up to the midterm.
     This will be largely based on the midterm exam review, but we will try to
     reference more recent concepts.
-  homework: HW6 Due
 
 - date: 12/6/18
   topic: RRR week
   description: In this exam review we will cover material after the midterm.
+  homework: HW6 Due
 
 - date: 12/11/18
 
