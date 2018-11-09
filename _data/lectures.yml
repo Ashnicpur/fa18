@@ -448,6 +448,7 @@
   description: In this lecture we review more advanced SQL queries including
     joins and common table expressions, and we discuss how we can combine
     computation in a database with Python.
+  slides: assets/lectures/lec23/23-advanced-sql.pptx
 
 - date: 11/13/18
   topic: Big Data
