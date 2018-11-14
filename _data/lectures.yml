@@ -460,7 +460,12 @@
     methods of enterprise data management.
   lab: 'Lab11 '
   discussion: Lab11
+  slides: assets/lectures/lec23/24-big-data.pdf
   homework: HW5 Due, Proj2 Released
+  resources: |
+    - [Slides in PPT Format](assets/lectures/lec23/24-big-data.pptx)
+    - [Spark Demo (HTML)](assets/lectures/lec23/Spark.html)
+    - [Spark Demo (ipynb)](assets/lectures/lec23/Spark.ipynb)
 
 - date: 11/15/18
   topic: Distributed Computing
