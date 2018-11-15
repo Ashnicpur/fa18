@@ -475,7 +475,7 @@
     - [Slides in PPT Format](assets/lectures/lec23/24-big-data.pptx)
     - [Spark Demo (HTML)](assets/lectures/lec23/Spark.html)
     - [Spark Demo (ipynb)](assets/lectures/lec23/Spark.ipynb)
-  homework: Proj2 Released
+  homework: Proj2A Released
 
 - date: 11/15/18
   topic: Distributed Computing
@@ -485,6 +485,7 @@
     can use to work with data at scale. In particular, we will introduce
     programming with Spark, a parallel execution engine for big data
     processing.
+  homework: Proj2B Released
 
 - date: 11/20/18
   topic: A/B Testing
@@ -510,11 +511,12 @@
     topic!
   lab: 'Lab12 '
   discussion: Disc12
+  homework: Proj2A Due
 
 - date: 11/29/18
   topic: Conclusion
   description: This is the last lecture!
-  homework: Proj2 Due
+  homework: Proj2B Due
 
 - date: 12/4/18
   topic: RRR week
