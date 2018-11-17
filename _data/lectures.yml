@@ -423,7 +423,7 @@
 
 - date: 11/1/18
   topic: Numerical issues, condition numbers, higher dimensions
-  description: This is a new lecture for this semester!
+  description: This is a new lecture for this semester.
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=0km4NFT605U)
 
@@ -485,7 +485,6 @@
     can use to work with data at scale. In particular, we will introduce
     programming with Spark, a parallel execution engine for big data
     processing.
-  homework: Proj2B Released
 
 - date: 11/20/18
   topic: A/B Testing
@@ -499,23 +498,22 @@
     experimental results.
   lab: 'Project 2 OH '
   discussion: Break
-  homework: HW5 Due, HW6 Released
+  homework: HW5 Due, HW6 Released, Proj2B Released
 
 - date: 11/22/18
   topic: Thanksgiving Break
   description: Enjoy your break!
 
 - date: 11/27/18
-  topic: Guest Lecture
-  description: There will be a guest lecturer on this day. Stay tuned for the
-    topic!
+  topic: Data Commons
+  description: There will be a guest lecturer on this day.
   lab: 'Lab12 '
-  discussion: Disc12
+  discussion: Lab12
   homework: Proj2A Due
 
 - date: 11/29/18
   topic: Conclusion
-  description: This is the last lecture!
+  description: This is the last lecture.
   homework: Proj2B Due
 
 - date: 12/4/18
