@@ -468,13 +468,15 @@
     of data. We will introduce various data representation techniques for
     database design, and we will discuss the tradeoffs between different
     methods of enterprise data management.
-  lab: 'Lab11 '
+  lab: |
+    - Lab11
+    - [Solutions](https://github.com/DS-100/fa18/blob/master/labs/lab11/lab11_solution.ipynb)
   discussion: Lab11
-  slides: assets/lectures/lec23/24-big-data.pdf
+  slides: assets/lectures/lec24/24-big-data.pdf
   resources: |
-    - [Slides in PPT Format](assets/lectures/lec23/24-big-data.pptx)
-    - [Spark Demo (HTML)](assets/lectures/lec23/Spark.html)
-    - [Spark Demo (ipynb)](assets/lectures/lec23/Spark.ipynb)
+    - [Slides in PPT Format](assets/lectures/lec24/24-big-data.pptx)
+    - [Spark Demo (HTML)](assets/lectures/lec24/Spark.html)
+    - [Spark Demo (ipynb)](assets/lectures/lec24/Spark.ipynb)
   homework: Proj2A Released
 
 - date: 11/15/18
