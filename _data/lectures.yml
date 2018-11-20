@@ -477,6 +477,7 @@
     - [Slides in PPT Format](assets/lectures/lec24/24-big-data.pptx)
     - [Spark Demo (HTML)](assets/lectures/lec24/Spark.html)
     - [Spark Demo (ipynb)](assets/lectures/lec24/Spark.ipynb)
+    - [Screencast](https://www.youtube.com/watch?v=EuxDwLlKwMY)
   homework: Proj2A Released
 
 - date: 11/15/18
@@ -487,6 +488,9 @@
     can use to work with data at scale. In particular, we will introduce
     programming with Spark, a parallel execution engine for big data
     processing.
+  resources: |
+    - [Screencast](https://www.youtube.com/watch?v=GkVfHX-NUdk)
+    - [Ray Documentation](http://ray.readthedocs.io/en/latest/index.html)
 
 - date: 11/20/18
   topic: A/B Testing
