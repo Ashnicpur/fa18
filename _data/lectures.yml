@@ -477,7 +477,8 @@
     - [Slides in PPT Format](assets/lectures/lec24/24-big-data.pptx)
     - [Spark Demo (HTML)](assets/lectures/lec24/Spark.html)
     - [Spark Demo (ipynb)](assets/lectures/lec24/Spark.ipynb)
-  homework: Proj2A Released
+    - [Screencast](https://www.youtube.com/watch?v=EuxDwLlKwMY)
+  homework: Proj2A Released, Grad Project Released
 
 - date: 11/15/18
   topic: Distributed Computing
@@ -487,6 +488,8 @@
     can use to work with data at scale. In particular, we will introduce
     programming with Spark, a parallel execution engine for big data
     processing.
+  resources: |
+    - [Video](https://www.youtube.com/watch?v=GkVfHX-NUdk)
 
 - date: 11/20/18
   topic: A/B Testing
@@ -500,7 +503,7 @@
     experimental results.
   lab: 'Project 2 OH '
   discussion: Break
-  homework: HW5 Due, HW6 Released, Proj2B Released
+  homework: HW6 Released, Proj2B Released
 
 - date: 11/22/18
   topic: Thanksgiving Break
@@ -511,23 +514,20 @@
   description: There will be a guest lecturer on this day.
   lab: 'Lab12 '
   discussion: Lab12
-  homework: Proj2A Due
+  homework: HW5 Due
 
 - date: 11/29/18
   topic: Conclusion
   description: This is the last lecture.
-  homework: Proj2B Due
+  homework: Proj2A Due
 
 - date: 12/4/18
   topic: RRR week
-  description: In this exam review we will cover material up to the midterm.
-    This will be largely based on the midterm exam review, but we will try to
-    reference more recent concepts.
+  homework: Proj2B Due
 
 - date: 12/6/18
   topic: RRR week
-  description: In this exam review we will cover material after the midterm.
-  homework: HW6 Due
+  homework: HW6 Due, Grad Project Due
 
 - date: 12/11/18
 
