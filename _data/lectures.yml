@@ -489,7 +489,8 @@
     programming with Spark, a parallel execution engine for big data
     processing.
   resources: |
-    - [Video](https://www.youtube.com/watch?v=GkVfHX-NUdk)
+    - [Screencast](https://www.youtube.com/watch?v=GkVfHX-NUdk)
+    - [Ray Documentation](http://ray.readthedocs.io/en/latest/index.html)
 
 - date: 11/20/18
   topic: A/B Testing

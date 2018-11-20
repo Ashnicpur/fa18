@@ -83,7 +83,7 @@ dependencies:
   - olefile=0.46
   - openssl=1.0.2p
   - packaging=17.1
-  - pandas=0.22.0
+  - pandas=0.23.4
   - pandoc=1.19.2.1
   - pandocfilters=1.4.2
   - parso=0.1.1
@@ -109,6 +109,7 @@ dependencies:
   - pympler=0.5
   - pyopenssl=17.5.0
   - pyparsing=2.2.0
+  - pytables=3.4.4
   - pyqt=5.6.0
   - pysocks=1.6.8
   - pytest=3.3.2
@@ -185,9 +186,11 @@ dependencies:
     - jupyter-latex-envs==1.4.4
     - jupyter-nbextensions-configurator==0.4.0
     - jupyterlab-launcher==0.10.5
+    - ipympl==0.2.1
     - msgpack==0.5.6
     - nbgitpuller==0.6.1
     - nbzip==0.1.0
     - prometheus-client==0.3.1
+    - redis==2.10.6  
     - git+git://github.com/berkeley-dsep-infra/nbgrader.git@7aba39a
 prefix: /srv/conda/envs/data100
