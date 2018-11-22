@@ -504,9 +504,11 @@
     experimental results.
   lab: 'Project 2 OH '
   discussion: Break
+  slides: http://www.ds100.org/sp18/assets/lectures/lec28/28-randomized-experiments-ab-testing.pdf
   homework: HW6 Released, Proj2B Released
   resources: |
     - [Screencast](https://youtu.be/gtrz_uPJ-fE)
+    - [Demo Notebook (HTML)](http://www.ds100.org/sp18/assets/lectures/lec28/sequential-experiments-demo.html)
 
 - date: 11/22/18
   topic: Thanksgiving Break
