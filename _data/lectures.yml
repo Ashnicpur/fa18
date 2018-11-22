@@ -488,9 +488,11 @@
     can use to work with data at scale. In particular, we will introduce
     programming with Spark, a parallel execution engine for big data
     processing.
+  slides: https://d1b10bmlvqabco.cloudfront.net/attach/jkopvsyuy7g3u0/hl75y4dig6u38v/joqrs9ol3u7h/20181115__DS100_lecture_on_machine_learning_and_distributed_systems.pdf
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=GkVfHX-NUdk)
     - [Ray Documentation](http://ray.readthedocs.io/en/latest/index.html)
+    - [Notebook](https://d1b10bmlvqabco.cloudfront.net/attach/jkopvsyuy7g3u0/hl75y4dig6u38v/joqrqhfv1zcj/DS100RayMLlecture.ipynb)
 
 - date: 11/20/18
   topic: A/B Testing
