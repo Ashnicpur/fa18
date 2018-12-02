@@ -520,15 +520,21 @@
   topic: Data Commons
   description: There will be a guest lecturer on this day.
   slides: https://docs.google.com/presentation/d/1_kbcc_lMLdjD85q84jrlJfTUuHRCXAvc5GYXFheXsZQ/edit?usp=sharing
-  lab: 'Lab12 '
+  lab: |
+    - Lab12
+    - [Solutions](https://colab.research.google.com/drive/1KyksSuyGkOJJSION5_hbkHyuzaBRgkJv)
   discussion: Lab12
   homework: HW5 Due
+  resources: |
+    - [Screencast](https://www.youtube.com/watch?v=Fg9wWNmS_Rs)
 
 - date: 11/29/18
   topic: Conclusion
   description: This is the last lecture.
   slides: https://docs.google.com/presentation/d/1hduN1NoV0CQWvuvFL0Grv6MGYnors4zZ68Xxe91U3Dw/edit?usp=sharing
   homework: Proj2A Due
+  resources: |
+    - [Screencast](https://www.youtube.com/watch?v=5izTC0rlqzc)
 
 - date: 12/4/18
   topic: RRR week
