@@ -323,6 +323,7 @@
     - [Solutions](https://github.com/DS-100/fa18/blob/master/disc/disc07/disc07_sol.pdf)
   homework: |
     - HW3 Due, Proj1 Released
+    - [Proj1 Solutions](https://github.com/DS-100/fa18/blob/master/proj/proj1/proj1.ipynb)
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=AxZDMit8RBY)
 
@@ -390,7 +391,9 @@
     bootstrapped distribution to provide interval estimates for the population
     parameter.
   slides: assets/lectures/lec19/19-boostrap-mc.pptx
-  homework: Proj1 Due, HW4 Released
+  homework: |
+    - Proj1 Due, HW4 Released
+    - [HW4 Solutions](https://github.com/DS-100/fa18/blob/master/hw/hw4/hw4.ipynb)
   resources: |
     - [Central Limit Theorem notebook](assets/lectures/lec19/central-limit.ipynb)
     - [PRNG notebook](assets/lectures/lec19/prngs.ipynb)
@@ -453,7 +456,9 @@
     joins and common table expressions, and we discuss how we can combine
     computation in a database with Python.
   slides: assets/lectures/lec23/23-advanced-sql.pptx
-  homework: HW4 Due, HW5 Released
+  homework: |
+    - HW4 Due, HW5 Released
+    - [HW5 Solutions](https://github.com/DS-100/fa18/blob/master/hw/hw5/hw5.ipynb)
   resources: |
     - [Notebook (ipynb)](assets/lectures/lec23/sql_introduction_part2.ipynb)
     - [Notebook (html)](assets/lectures/lec23/sql_introduction_part2.html)
