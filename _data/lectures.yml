@@ -483,7 +483,9 @@
     - [Spark Demo (HTML)](assets/lectures/lec24/Spark.html)
     - [Spark Demo (ipynb)](assets/lectures/lec24/Spark.ipynb)
     - [Screencast](https://www.youtube.com/watch?v=EuxDwLlKwMY)
-  homework: Proj2A Released, Grad Project Released
+  homework: |
+    - Proj2A Released, Grad Project Released
+    - [Proj2A Solutions](https://github.com/DS-100/fa18/tree/master/proj/proj2A)
 
 - date: 11/15/18
   topic: Distributed Computing
@@ -512,7 +514,10 @@
   lab: 'Project 2 OH '
   discussion: Break
   slides: http://www.ds100.org/sp18/assets/lectures/lec28/28-randomized-experiments-ab-testing.pdf
-  homework: HW6 Released, Proj2B Released
+  homework: |
+    - HW6 Released, Proj2B Released
+    - [HW6 Solutions](https://github.com/DS-100/fa18/blob/master/hw/hw6/hw6.ipynb)
+    - [Proj2B Solutions](https://github.com/DS-100/fa18/tree/master/proj/proj2B)
   resources: |
     - [Screencast](https://youtu.be/gtrz_uPJ-fE)
     - [Demo Notebook (HTML)](http://www.ds100.org/sp18/assets/lectures/lec28/sequential-experiments-demo.html)
@@ -543,11 +548,18 @@
 
 - date: 12/4/18
   topic: RRR week
+  description: This review lecture goes over material in the second half
+    of the course.
   homework: Proj2B Due
+  resources: |
+    - [Screencast](https://www.youtube.com/playlist?list=PLNSdoiHk6ujg9IGlEdn51sTKuc7ibDL0V)
 
 - date: 12/6/18
   topic: RRR week
+  description: This review lecture goes over problems in the Spring 2018 Final.
   homework: HW6 Due, Grad Project Due
+  resources: |
+    - [Screencast](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr)
 
 - date: 12/11/18
 
