@@ -429,6 +429,12 @@
   description: This is a new lecture for this semester.
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=0km4NFT605U)
+    - Notebooks (HTML)
+      - [KL Divergence](assets/lectures/lec21/KL_Divergence.html)
+      - [Numerical Chaos](assets/lectures/lec21/21-numerical-chaos.html)
+      - [Monte Carlo ND](assets/lectures/lec21/MonteCarlo-nd.html)
+      - [Condition Number](assets/lectures/lec21/condition-number.html)
+      - [Volumes in ND](assets/lectures/lec21/vols_nd.html)
 
 - date: 11/6/18
   topic: SQL
